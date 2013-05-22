@@ -1,4 +1,8 @@
 *.py[cod]
+Homo\ sapiens-20121210.txt
+*~
+\#*
+.\#*
 
 # C extensions
 *.so
