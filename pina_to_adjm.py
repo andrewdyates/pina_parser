@@ -2,6 +2,9 @@
 """Convert edge list file to adj matrix.
 
 WARNING: adjm is a large file. Move it out of the source code respository on creation.
+
+# interactions x2: 208417
+# (genes x genes) size: (13989, 13989)
 """
 import numpy as np
 import matrix_io as mio
