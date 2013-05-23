@@ -15,6 +15,7 @@ RX_INTERACT = re.compile('[^(]+\(([^)]+)\)')
 RX_UNIPROT = re.compile('uniprotkb:(.+)')
 RX_GENE_NAME = re.compile("uniprotkb:([^)]*)\(gene name\)")
 FNAME_OUT = "pina_compiled_may22_2013.tab"
+HUMAN = "taxid:9606(Homo sapiens)"
 
 def write_ppi(ppi):
   fp = open(FNAME_OUT, "w")
@@ -32,7 +33,7 @@ def get_interact(s):
       r.add(m.group(1))
   return r
 
-def get_sym(H, prot_s, sym_s, alias_s):
+def get_sym(H, prot_s, sym_s, alias_s, allow_miss=True):
   """Return official HUGO gene symbol."""
   prot_m = RX_UNIPROT.match(prot_s)
   if prot_m:
@@ -66,11 +67,16 @@ def get_sym(H, prot_s, sym_s, alias_s):
       if ss:
         return ss
       else:
-        return None
+        # go ahead and return uniprot gene symbol that is not official HUGO gene symbol
+        if allow_miss and sym not in ("-","None"):
+          return sym
+        else:
+          return None
 
 def main():
   fp = open(FNAME)
   header = fp.next().strip('\n\r')
+  n_not_human = 0
   problems = {}
   ppi = {}
   syms = set()
@@ -84,6 +90,10 @@ def main():
     prot1, prot2 = row[0], row[1]
     sym1, sym2 = row[2], row[3]
     alias1, alias2 = row[4], row[5]
+    tax1, tax2 = row[9], row[10]
+    if tax1 != tax2 or tax1 != HUMAN:
+      n_not_human += 1
+      continue
     
     gene_a = get_sym(H, prot1, sym1, alias1)
     gene_b = get_sym(H, prot2, sym2, alias2)
@@ -102,12 +112,12 @@ def main():
   print "STATS"
   print "Lines read:", linenum-1
   print "#PPI:", len(ppi)
+  print "Lines not human:", n_not_human
   print "#Unique Syms:", len(syms)
   print "#Problem Syms:", len(problems)
   print "#Problem PPI:", sum(len(s) for s in problems.values())
-  print "Top 20 problem syms"
+  print "Problem syms"
   for i, v in enumerate(problems.items()):
-    if i >= 20:  break
     print v
 
   print "Writing output file to %s..." % FNAME_OUT

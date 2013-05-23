@@ -1,4 +1,5 @@
 Gene A	Gene B	Interaction Methods
+44M2.3	IGBP1	two hybrid
 A1BG	ABCC6	two hybrid
 A1BG	ANXA7	two hybrid
 A1BG	CRISP3	affinity chromatography technology
@@ -2746,6 +2747,7 @@ ADRB2	ARRDC3	affinity chromatography technology
 ADRB2	CNBP	anti bait coimmunoprecipitation
 ADRB2	CSK	in vitro
 ADRB2	CUL2	affinity chromatography technology
+ADRB2	DKFZp686J1895	anti bait coimmunoprecipitation
 ADRB2	EGLN3	affinity chromatography technology
 ADRB2	EIF2B1	in vivo
 ADRB2	GNA11	in vivo
@@ -3142,6 +3144,7 @@ AGO3	PRPF31	anti tag coimmunoprecipitation
 AGO3	PSPC1	anti tag coimmunoprecipitation
 AGO3	QPCTL	anti tag coimmunoprecipitation
 AGO3	RUVBL2	anti tag coimmunoprecipitation
+AGO3	SF3B14	anti tag coimmunoprecipitation
 AGO3	SIRT5	affinity chromatography technology
 AGO3	SLC22A2	two hybrid
 AGO3	SPIN1	anti tag coimmunoprecipitation
@@ -4468,6 +4471,7 @@ ALPP	UBXN11	affinity chromatography technology
 ALPP	UBXN6	affinity chromatography technology
 ALPP	UBXN7	affinity chromatography technology
 ALPPL2	ALPPL2	in vitro
+ALR	ASCC2	two hybrid
 ALS2	UBC	affinity chromatography technology
 ALS2	YWHAB	affinity chromatography technology
 ALS2CL	RAB5A	pull down
@@ -6529,6 +6533,7 @@ APOBEC3G	RPS27A	anti tag coimmunoprecipitation
 APOBEC3G	TINF2	two hybrid
 APOBEC3G	UBC	affinity chromatography technology
 APOC1	APOC1	in vitro
+APOC1	NSG2	two hybrid
 APOC2	LPL	in vitro
 APOC3	ARFGAP1	two hybrid
 APOC3	UBC	affinity chromatography technology
@@ -6555,7 +6560,6 @@ APOE	LRP1	in vivo
 APOE	LRP2	in vivo
 APOE	LRP8	pull down
 APOE	MAP2	in vitro
-APOE	MAP4K2	two hybrid
 APOE	MAPT	pull down
 APOE	MAST1	pull down
 APOE	NEFM	in vitro
@@ -7031,6 +7035,7 @@ ARAF	YWHAE	two hybrid
 ARAF	YWHAG	affinity chromatography technology
 ARAF	YWHAH	affinity chromatography technology
 ARAF	YWHAZ	peptide array
+ARAF	hTIM44	experimental interaction detection
 ARAP1	ARIH2	two hybrid
 ARAP1	ARPC3	two hybrid
 ARAP1	FGFR3	in vitro|two hybrid
@@ -7261,6 +7266,7 @@ ARF6	TARS	anti bait coimmunoprecipitation
 ARF6	TRIM23	anti bait coimmunoprecipitation
 ARF6	TRIM28	anti bait coimmunoprecipitation
 ARF6	TRMT112	anti bait coimmunoprecipitation
+ARF6	Tcr-alpha	anti bait coimmunoprecipitation
 ARF6	UBC	affinity chromatography technology
 ARF6	UBE2D3	anti bait coimmunoprecipitation
 ARF6	UQCRC2	anti bait coimmunoprecipitation
@@ -8241,6 +8247,7 @@ ARNTL	NPAS2	in vitro
 ARNTL	NPAS4	two hybrid
 ARNTL	PER3	in vivo
 ARNTL	UBE2I	in vivo
+ARP3BETA	RSRC1	two hybrid pooling approach
 ARPC1A	ARPC2	tandem affinity purification
 ARPC1A	ELAVL1	pull down
 ARPC1A	EXOC7	in vivo
@@ -8410,6 +8417,7 @@ ARRB1	H1FX	anti tag coimmunoprecipitation
 ARRB1	H2AFX	anti tag coimmunoprecipitation
 ARRB1	H3F3B	affinity chromatography technology
 ARRB1	HCK	in vivo
+ARRB1	HDGFRP2	anti tag coimmunoprecipitation
 ARRB1	HGS	affinity chromatography technology
 ARRB1	HIF1A	cross-linking study
 ARRB1	HIST1H1C	anti tag coimmunoprecipitation
@@ -8620,6 +8628,7 @@ ARRB2	GSN	affinity chromatography technology
 ARRB2	H1FX	affinity chromatography technology
 ARRB2	H2AFX	affinity chromatography technology
 ARRB2	HDAC2	affinity chromatography technology
+ARRB2	HDGFRP2	affinity chromatography technology
 ARRB2	HIPK3	two hybrid
 ARRB2	HIST1H1A	affinity chromatography technology
 ARRB2	HIST1H1C	affinity chromatography technology
@@ -9485,6 +9494,7 @@ ATF2	SMAD3	two hybrid
 ATF2	SMAD4	in vivo
 ATF2	SS18	anti bait coimmunoprecipitation
 ATF2	SSFA2	display technology
+ATF2	SYT-SSX2	anti bait coimmunoprecipitation
 ATF2	THRB	pull down
 ATF2	UBC	affinity chromatography technology
 ATF2	UBE2I	two hybrid
@@ -9710,6 +9720,7 @@ ATG12	CHTOP	anti bait coimmunoprecipitation
 ATG12	DDX58	anti tag coimmunoprecipitation
 ATG12	DDX6	anti bait coimmunoprecipitation
 ATG12	DHX36	affinity chromatography technology
+ATG12	DKFZp666O0110	two hybrid
 ATG12	DOCK9	anti bait coimmunoprecipitation
 ATG12	EBLN2	anti bait coimmunoprecipitation
 ATG12	EIF3A	anti bait coimmunoprecipitation
@@ -10393,6 +10404,7 @@ ATP5C1	CCND3	in vitro|two hybrid
 ATP5C1	CCT7	two hybrid pooling approach
 ATP5C1	CHMP2B	two hybrid
 ATP5C1	CUL3	affinity chromatography technology
+ATP5C1	DKFZp686O1117	two hybrid
 ATP5C1	DPP3	in vitro
 ATP5C1	EGFR	two hybrid
 ATP5C1	ELOF1	two hybrid pooling approach
@@ -10780,6 +10792,7 @@ ATXN1	HSFX2	two hybrid array
 ATXN1	HSPA1B	two hybrid array
 ATXN1	HSPA4	affinity chromatography technology
 ATXN1	HSPA8	affinity chromatography technology
+ATXN1	IL-6SAG	pull down
 ATXN1	IL34	pull down
 ATXN1	IPO8	two hybrid array
 ATXN1	IRF9	pull down
@@ -10910,7 +10923,6 @@ ATXN2	ISG15	affinity chromatography technology
 ATXN2	KIAA0101	affinity chromatography technology
 ATXN2	KIAA1279	pull down
 ATXN2	LCP1	in vivo
-ATXN2	MT-CYB	two hybrid
 ATXN2	NCOA4	pull down
 ATXN2	PABPC1	two hybrid
 ATXN2	PLS3	in vivo
@@ -11389,6 +11401,7 @@ B3GALT4	DYNLL1	two hybrid
 B3GALT4	METTL18	two hybrid
 B3GALT6	UBC	affinity chromatography technology
 B3GAT1	B3GAT1	in vitro
+B3GAT1	DMA	two hybrid
 B3GAT1	SH3GL1	two hybrid
 B3GAT3	SEC22B	two hybrid
 B3GNT1	GYLTL1B	anti tag coimmunoprecipitation
@@ -11704,6 +11717,7 @@ BAG6	IQCG	in vitro
 BAG6	KCNQ1	affinity chromatography technology
 BAG6	KLHL12	two hybrid
 BAG6	LBP	two hybrid
+BAG6	LPPR3	two hybrid
 BAG6	MAGED1	anti bait coimmunoprecipitation
 BAG6	MAVS	anti tag coimmunoprecipitation
 BAG6	MEST	two hybrid
@@ -11767,6 +11781,7 @@ BAHCC1	CLSTN1	two hybrid
 BAHCC1	COMMD1	two hybrid
 BAHD1	BEGAIN	two hybrid
 BAHD1	CBX3	affinity chromatography technology
+BAHD1	DKFZp586M1622	two hybrid
 BAHD1	DVL2	two hybrid
 BAHD1	DVL3	two hybrid
 BAHD1	HDAC1	affinity chromatography technology
@@ -11854,6 +11869,7 @@ BAK1	UBC	affinity chromatography technology
 BAK1	UBE3A	anti bait coimmunoprecipitation
 BAK1	VDAC1	pull down
 BAK1	VDAC2	in vitro
+BAMBI	SEP15	two hybrid
 BAMBI	SOX30	two hybrid
 BAMBI	UBC	affinity chromatography technology
 BANF1	BCL7C	affinity chromatography technology
@@ -12442,6 +12458,12 @@ BCCIP	UBC	affinity chromatography technology
 BCDIN3D	CUL3	affinity chromatography technology
 BCDIN3D	ELAVL1	pull down
 BCDIN3D	UBC	affinity chromatography technology
+BCE1	BCE1	in vitro
+BCE1	MSX1	in vitro
+BCE1	OTX1	in vivo
+BCE1	OTX2	in vivo
+BCE1	PAX5	in vitro
+BCE1	POU2F1	in vitro
 BCHE	COLQ	two hybrid
 BCKDHA	BCKDHB	x-ray crystallography
 BCKDHA	BCKDK	affinity chromatography technology
@@ -12992,6 +13014,7 @@ BCORL1	RYBP	affinity chromatography technology
 BCORL1	SUMO2	affinity chromatography technology
 BCORL1	UBC	affinity chromatography technology
 BCORL1	YAF2	affinity chromatography technology
+BCR/ABL	CTNNB1	anti bait coimmunoprecipitation
 BCR	BCR	in vitro
 BCR	BLK	in vitro
 BCR	CBL	biochemical
@@ -13867,6 +13890,7 @@ BMPR1B	RHOJ	in vivo
 BMPR1B	RPS27A	in vivo
 BMPR1B	RRAS2	in vivo
 BMPR1B	SASH3	in vivo
+BMPR1B	SGK196	in vivo
 BMPR1B	SH3KBP1	in vivo
 BMPR1B	SMAD6	in vivo
 BMPR1B	SMAD7	in vivo
@@ -15974,6 +15998,7 @@ C7orf26	INTS3	affinity chromatography technology
 C7orf26	INTS5	affinity chromatography technology
 C7orf26	INTS6	affinity chromatography technology
 C7orf34	ZBTB48	two hybrid pooling approach
+C7orf34	pp9964	two hybrid
 C7orf41	ELAVL1	pull down
 C7orf41	UBC	affinity chromatography technology
 C7orf43	TMEM50A	two hybrid pooling approach|in vitro
@@ -16128,6 +16153,7 @@ CAB39	STRADB	anti bait coimmunoprecipitation
 CAB39	TIMM13	anti bait coimmunoprecipitation
 CAB39	UBC	affinity chromatography technology
 CAB39	VHL	affinity chromatography technology
+CAB39	hCG_1811444	anti bait coimmunoprecipitation
 CAB39L	MLH1	two hybrid
 CAB39L	STK11	anti tag coimmunoprecipitation
 CABIN1	CABIN1	in vitro
@@ -17510,6 +17536,7 @@ CAND1	SERBP1	affinity chromatography technology
 CAND1	SF3A1	affinity chromatography technology
 CAND1	SF3A3	affinity chromatography technology
 CAND1	SF3B1	affinity chromatography technology
+CAND1	SF3B14	affinity chromatography technology
 CAND1	SF3B2	affinity chromatography technology
 CAND1	SF3B3	affinity chromatography technology
 CAND1	SF3B4	affinity chromatography technology
@@ -17607,7 +17634,6 @@ CAND1	U2SURP	affinity chromatography technology
 CAND1	UBB	affinity chromatography technology
 CAND1	UBC	affinity chromatography technology
 CAND1	UGGT1	affinity chromatography technology
-CAND1	UOX	affinity chromatography technology
 CAND1	UPF1	affinity chromatography technology
 CAND1	UPF3B	affinity chromatography technology
 CAND1	USP11	affinity chromatography technology
@@ -17615,6 +17641,7 @@ CAND1	USP15	affinity chromatography technology
 CAND1	USP32	affinity chromatography technology
 CAND1	USP39	affinity chromatography technology
 CAND1	WDR5	affinity chromatography technology
+CAND1	WUGSC:H_RG054D04.1	affinity chromatography technology
 CAND1	XRCC1	affinity chromatography technology
 CAND1	XRCC6	affinity chromatography technology
 CAND1	XRN2	affinity chromatography technology
@@ -18956,6 +18983,7 @@ CBL	YWHAH	biochemical
 CBL	YWHAQ	coimmunoprecipitation
 CBL	YWHAZ	biochemical
 CBL	ZAP70	affinity chromatography technology
+CBL	p72syk	coimmunoprecipitation
 CBLB	CD2AP	x-ray crystallography
 CBLB	CFLAR	affinity chromatography technology
 CBLB	CRKL	affinity chromatography technology
@@ -19294,6 +19322,7 @@ CBX5	LRIF1	fluorescence microscopy
 CBX5	MBD1	anti tag coimmunoprecipitation
 CBX5	MCC	two hybrid
 CBX5	MECP2	affinity chromatography technology
+CBX5	MG44	two hybrid
 CBX5	MIS12	fluorescence microscopy
 CBX5	MKI67	in vitro
 CBX5	NIPBL	fluorescence microscopy
@@ -19644,6 +19673,7 @@ CCDC53	PBXIP1	two hybrid pooling approach
 CCDC53	PCM1	two hybrid
 CCDC53	PTN	two hybrid pooling approach
 CCDC53	SNAP25	two hybrid array
+CCDC53	argBPIB	two hybrid
 CCDC57	KIAA0368	two hybrid
 CCDC58	ELAVL1	pull down
 CCDC58	IKBKE	anti bait coimmunoprecipitation
@@ -19663,6 +19693,7 @@ CCDC59	VHL	affinity chromatography technology
 CCDC64B	UBC	affinity chromatography technology
 CCDC67	CCDC85B	two hybrid
 CCDC67	IFIT3	two hybrid
+CCDC69	MLTK	two hybrid
 CCDC6	CREB1	affinity chromatography technology
 CCDC6	CSNK2A1	protein kinase assay
 CCDC6	ELAVL1	pull down
@@ -19690,6 +19721,7 @@ CCDC85B	CEP70	two hybrid
 CCDC85B	CHCHD3	two hybrid pooling approach
 CCDC85B	COPS4	two hybrid
 CCDC85B	CWC25	two hybrid pooling approach
+CCDC85B	DKFZp451L0319	two hybrid
 CCDC85B	DOK5	two hybrid
 CCDC85B	DTNB	two hybrid pooling approach|two hybrid
 CCDC85B	DUSP13	two hybrid
@@ -20399,6 +20431,7 @@ CCND3	SIL1	two hybrid
 CCND3	VDR	in vivo
 CCNDBP1	COPS5	two hybrid
 CCNDBP1	DAPK1	affinity chromatography technology
+CCNDBP1	DKFZp572F2170	two hybrid
 CCNDBP1	GRAP2	two hybrid
 CCNDBP1	IMP3	two hybrid array
 CCNDBP1	MRPS9	two hybrid
@@ -20537,6 +20570,7 @@ CCNK	CDK18	two hybrid
 CCNK	CDK2	in vitro
 CCNK	CDK9	in vivo
 CCNK	CEP76	two hybrid pooling approach
+CCNK	DKFZp586M1622	two hybrid
 CCNK	DVL3	two hybrid
 CCNK	EFEMP2	two hybrid pooling approach
 CCNK	ELAVL1	pull down
@@ -21762,7 +21796,6 @@ CD8A	LGALS1	in vitro
 CD8A	LNX1	two hybrid
 CD8A	LNX2	two hybrid
 CD8A	PTPRC	fluorescent resonance energy transfer
-CD8A	RPS20P3	imaging technique
 CD8A	SREK1	in vivo
 CD8A	SRSF1	in vitro
 CD8A	UBC	two hybrid
@@ -21817,7 +21850,7 @@ CD9	SCN5A	affinity chromatography technology
 CD9	SDC1	coimmunoprecipitation
 CD9	SERPINH1	in vivo
 CD9	TSPAN4	in vivo
-CD9	UBC	affinity chromatography technology|enzymatic study
+CD9	UBC	affinity chromatography technology
 CDA	CDA	in vitro
 CDA	KPNA2	two hybrid
 CDA	UBC	enzymatic study
@@ -22225,6 +22258,7 @@ CDC42	CDH1	affinity chromatography technology
 CDC42	CFHR4	two hybrid
 CDC42	CLIP1	affinity chromatography technology
 CDC42	CNTNAP1	pull down
+CDC42	COX1	pull down
 CDC42	CPN1	two hybrid
 CDC42	CSN2	two hybrid
 CDC42	CSPG4	in vivo
@@ -23428,6 +23462,7 @@ CDK5RAP3	DGCR14	two hybrid
 CDK5RAP3	DHX36	anti bait coimmunoprecipitation
 CDK5RAP3	DISC1	two hybrid
 CDK5RAP3	DMBT1	anti bait coimmunoprecipitation
+CDK5RAP3	HIN1L	anti bait coimmunoprecipitation
 CDK5RAP3	HSPA4	affinity chromatography technology
 CDK5RAP3	HSPA8	affinity chromatography technology
 CDK5RAP3	HUWE1	affinity chromatography technology
@@ -24439,6 +24474,7 @@ CENPA	MLF1IP	affinity chromatography technology
 CENPA	PARP1	affinity chromatography technology
 CENPA	PARP2	in vivo
 CENPA	PHIP	biochemical
+CENPA	PP6455	biochemical
 CENPA	PRKDC	affinity chromatography technology
 CENPA	RING1	biochemical
 CENPA	RNF2	biochemical
@@ -24736,6 +24772,7 @@ CEP72	MCM10	two hybrid
 CEP72	PCM1	two hybrid pooling approach
 CEP72	PLK1S1	anti bait coimmunoprecipitation
 CEP72	SERPINB2	two hybrid
+CEP72	SNC73	two hybrid
 CEP72	SPATA2	two hybrid
 CEP72	TUBG1	anti bait coimmunoprecipitation
 CEP72	UBC	affinity chromatography technology
@@ -25161,6 +25198,7 @@ CHD3	CSTF2	two hybrid
 CHD3	CTBP1	two hybrid
 CHD3	CTTN	in vitro|two hybrid|two hybrid pooling approach
 CHD3	DDX5	anti bait coimmunoprecipitation
+CHD3	DKFZp434D1428	two hybrid pooling approach
 CHD3	ESR1	anti tag coimmunoprecipitation
 CHD3	FABP4	two hybrid
 CHD3	FAM134A	two hybrid
@@ -25544,6 +25582,7 @@ CHGB	RCC1	two hybrid
 CHGB	RXRG	two hybrid pooling approach
 CHGB	S100A8	in vitro
 CHGB	SAFB2	two hybrid pooling approach
+CHGB	SGK223	two hybrid
 CHGB	SLC25A6	in vitro
 CHGB	SMAD2	display technology
 CHGB	TAZ	two hybrid pooling approach
@@ -25553,6 +25592,7 @@ CHGB	TWF2	two hybrid pooling approach
 CHGB	UBQLN1	two hybrid
 CHGB	UBTF	two hybrid pooling approach
 CHGB	YLPM1	two hybrid
+CHGB	hCG_1723909	two hybrid pooling approach
 CHI3L1	CHI3L1	in vitro
 CHIC1	UBC	affinity chromatography technology
 CHIC2	ELAVL1	pull down
@@ -25890,6 +25930,7 @@ CHUK	ERC1	biochemical
 CHUK	ESR1	in vivo
 CHUK	FKBP5	anti tag coimmunoprecipitation
 CHUK	FOXO3	in vivo
+CHUK	HCA90	anti bait coimmunoprecipitation
 CHUK	HIST2H3D	affinity chromatography technology
 CHUK	HIST3H3	in vivo
 CHUK	HSP90AA1	tandem affinity purification
@@ -26489,7 +26530,6 @@ CLEC7A	SOCS1	affinity chromatography technology
 CLEC7A	TLR2	affinity chromatography technology
 CLEC7A	UBC	affinity chromatography technology
 CLGN	GDE1	two hybrid
-CLGN	MT-ATP6	affinity chromatography technology
 CLGN	SARM1	affinity chromatography technology
 CLGN	TLR9	affinity chromatography technology
 CLGN	UBC	affinity chromatography technology
@@ -26686,6 +26726,7 @@ CLNS1A	G3BP1	anti tag coimmunoprecipitation
 CLNS1A	ITGA2B	in vivo
 CLNS1A	LSM10	pull down
 CLNS1A	LSM11	pull down
+CLNS1A	NFE4	anti bait coimmunoprecipitation
 CLNS1A	PRMT5	anti bait coimmunoprecipitation
 CLNS1A	SNRPB	molecular sieving
 CLNS1A	SNRPD1	molecular sieving
@@ -27236,6 +27277,7 @@ CNOT8	MARCKS	anti bait coimmunoprecipitation
 CNOT8	MCM7	anti bait coimmunoprecipitation
 CNOT8	OTUB1	anti bait coimmunoprecipitation
 CNOT8	PUM1	pull down
+CNOT8	Tcr-alpha	anti bait coimmunoprecipitation
 CNOT8	UBC	affinity chromatography technology
 CNP	MTNR1A	in vivo
 CNP	PPP1CA	two hybrid
@@ -28382,7 +28424,6 @@ COPS5	MRPS23	affinity chromatography technology
 COPS5	MRPS25	affinity chromatography technology
 COPS5	MRPS27	affinity chromatography technology
 COPS5	MT-ATP8	affinity chromatography technology
-COPS5	MT-CO1	affinity chromatography technology
 COPS5	MTHFD1L	affinity chromatography technology
 COPS5	MYBBP1A	affinity chromatography technology
 COPS5	MYEOV2	affinity chromatography technology
@@ -28676,6 +28717,7 @@ COPS5	WDR5	affinity chromatography technology
 COPS5	WDR61	affinity chromatography technology
 COPS5	WIPI2	affinity chromatography technology
 COPS5	WNK1	two hybrid
+COPS5	WUGSC:H_RG054D04.1	affinity chromatography technology
 COPS5	XRCC6	affinity chromatography technology
 COPS5	XRN2	affinity chromatography technology
 COPS5	YAE1D1	affinity chromatography technology
@@ -28718,6 +28760,7 @@ COPS6	DDB2	affinity chromatography technology
 COPS6	DDX3X	affinity chromatography technology
 COPS6	DDX5	affinity chromatography technology
 COPS6	DIS3L2	in vitro
+COPS6	DKFZp686N1286	two hybrid
 COPS6	DLEU1	two hybrid pooling approach
 COPS6	DMBT1	affinity chromatography technology
 COPS6	DTL	anti tag coimmunoprecipitation
@@ -28919,6 +28962,7 @@ COPS6	UCHL3	anti tag coimmunoprecipitation
 COPS6	VIM	fluorescence microscopy
 COPS6	VPRBP	affinity chromatography technology
 COPS6	WIPI2	two hybrid pooling approach
+COPS6	WUGSC:H_RG054D04.1	affinity chromatography technology
 COPS6	ZEB2	in vitro
 COPS6	ZMAT2	affinity chromatography technology
 COPS6	ZNF24	two hybrid
@@ -30096,6 +30140,7 @@ CRMP1	LRRC1	two hybrid pooling approach
 CRMP1	LSM2	two hybrid pooling approach
 CRMP1	MAPK8IP2	two hybrid
 CRMP1	MCM3AP	two hybrid
+CRMP1	MLTK	two hybrid
 CRMP1	MOB4	two hybrid pooling approach
 CRMP1	MRPS12	in vitro
 CRMP1	NAT9	two hybrid pooling approach
@@ -30575,6 +30620,7 @@ CSNK1A1	YWHAZ	imaging technique
 CSNK1A1L	JAM2	two hybrid
 CSNK1A1L	UBC	affinity chromatography technology
 CSNK1D	CTNNB1	in vivo
+CSNK1D	DKFZp586M1622	two hybrid
 CSNK1D	DVL1	affinity chromatography technology
 CSNK1D	DVL3	two hybrid pooling approach
 CSNK1D	GJA1	enzymatic study
@@ -30699,6 +30745,7 @@ CSNK2A1	HDAC3	enzymatic study
 CSNK2A1	HDAC5	affinity chromatography technology
 CSNK2A1	HDAC7	affinity chromatography technology
 CSNK2A1	HDAC8	affinity chromatography technology
+CSNK2A1	HDGFRP2	protein kinase assay
 CSNK2A1	HDLBP	protein kinase assay
 CSNK2A1	HES6	in vitro
 CSNK2A1	HIF1A	fluorescence technology
@@ -32080,6 +32127,7 @@ CTTNBP2	STRN4	affinity chromatography technology
 CTTNBP2	TCP1	affinity chromatography technology
 CTTNBP2	ZRANB1	affinity chromatography technology
 CTTNBP2NL	MOB4	anti tag coimmunoprecipitation
+CTTNBP2NL	MST4	anti tag coimmunoprecipitation
 CTTNBP2NL	PDCD10	anti tag coimmunoprecipitation
 CTTNBP2NL	PPP2CA	anti tag coimmunoprecipitation
 CTTNBP2NL	PPP2CB	affinity chromatography technology
@@ -32567,12 +32615,12 @@ CUL1	UBE2M	affinity chromatography technology
 CUL1	UBXN1	anti tag coimmunoprecipitation
 CUL1	UBXN7	anti tag coimmunoprecipitation
 CUL1	UGGT1	affinity chromatography technology
-CUL1	UOX	affinity chromatography technology
 CUL1	USP11	affinity chromatography technology
 CUL1	VCP	affinity chromatography technology
 CUL1	VIM	affinity chromatography technology
 CUL1	VPRBP	affinity chromatography technology
 CUL1	WDR5	affinity chromatography technology
+CUL1	WUGSC:H_RG054D04.1	affinity chromatography technology
 CUL1	WWP2	affinity chromatography technology
 CUL1	XRN2	affinity chromatography technology
 CUL1	YBX1	in vivo
@@ -32878,6 +32926,7 @@ CUL2	VCP	affinity chromatography technology
 CUL2	VHL	anti tag coimmunoprecipitation
 CUL2	VWA7	affinity chromatography technology
 CUL2	WDR77	affinity chromatography technology
+CUL2	WUGSC:H_RG054D04.1	affinity chromatography technology
 CUL2	YAE1D1	affinity chromatography technology
 CUL2	YBX1	affinity chromatography technology
 CUL2	YWHAQ	affinity chromatography technology
@@ -33538,6 +33587,7 @@ CUL3	SEC24A	affinity chromatography technology
 CUL3	SEC24B	affinity chromatography technology
 CUL3	SEC24C	affinity chromatography technology
 CUL3	SEC31A	affinity chromatography technology
+CUL3	SEP15	affinity chromatography technology
 CUL3	SEPHS1	affinity chromatography technology
 CUL3	SEPT10	affinity chromatography technology
 CUL3	SERBP1	affinity chromatography technology
@@ -34137,6 +34187,7 @@ CUL4B	WDR61	affinity chromatography technology
 CUL4B	WDR76	affinity chromatography technology
 CUL4B	WDR82	affinity chromatography technology
 CUL4B	WDTC1	affinity chromatography technology
+CUL4B	WUGSC:H_RG054D04.1	affinity chromatography technology
 CUL4B	XRN2	affinity chromatography technology
 CUL4B	YBX1	affinity chromatography technology
 CUL4B	ZCCHC11	affinity chromatography technology
@@ -34247,7 +34298,6 @@ CUL5	LUZP1	affinity chromatography technology
 CUL5	MAN1B1	affinity chromatography technology
 CUL5	MCM7	affinity chromatography technology
 CUL5	MRPS2	affinity chromatography technology
-CUL5	MT-CO1	affinity chromatography technology
 CUL5	MUM1	affinity chromatography technology
 CUL5	MYEOV2	affinity chromatography technology
 CUL5	NAMPT	affinity chromatography technology
@@ -34419,6 +34469,7 @@ CUL5	VPRBP	affinity chromatography technology
 CUL5	VPS36	affinity chromatography technology
 CUL5	WSB1	in vitro
 CUL5	WSB2	affinity chromatography technology
+CUL5	WUGSC:H_RG054D04.1	affinity chromatography technology
 CUL5	XPOT	affinity chromatography technology
 CUL5	XRCC6	affinity chromatography technology
 CUL5	ZCCHC11	affinity chromatography technology
@@ -35755,6 +35806,7 @@ DCUN1D1	RPS8	affinity chromatography technology
 DCUN1D1	S100A7	affinity chromatography technology
 DCUN1D1	SCRIB	affinity chromatography technology
 DCUN1D1	SDHA	affinity chromatography technology
+DCUN1D1	SEP15	affinity chromatography technology
 DCUN1D1	SHKBP1	affinity chromatography technology
 DCUN1D1	SLC25A5	affinity chromatography technology
 DCUN1D1	SMAD2	two hybrid
@@ -35794,6 +35846,7 @@ DCUN1D1	UGGT1	affinity chromatography technology
 DCUN1D1	UNC80	affinity chromatography technology
 DCUN1D1	VPRBP	affinity chromatography technology
 DCUN1D1	WSB1	affinity chromatography technology
+DCUN1D1	WUGSC:H_RG054D04.1	affinity chromatography technology
 DCUN1D1	YWHAB	affinity chromatography technology
 DCUN1D1	YWHAE	affinity chromatography technology
 DCUN1D1	ZCCHC11	affinity chromatography technology
@@ -35858,6 +35911,7 @@ DDAH1	ELAVL1	pull down
 DDAH2	DNAJB11	two hybrid
 DDAH2	GADD45G	two hybrid
 DDAH2	MKNK1	two hybrid
+DDAH2	MLTK	two hybrid
 DDAH2	PIN1	two hybrid
 DDAH2	RAP1B	two hybrid
 DDAH2	RCC1	two hybrid
@@ -36264,6 +36318,7 @@ DDX23	TP73	affinity chromatography technology
 DDX23	UBC	affinity chromatography technology
 DDX23	USP39	anti tag coimmunoprecipitation
 DDX23	WBP4	pull down
+DDX24	DKFZp686N1286	two hybrid
 DDX24	EIF3E	in vitro
 DDX24	EIF4A2	two hybrid pooling approach
 DDX24	EP300	affinity chromatography technology
@@ -37399,6 +37454,50 @@ DKC1	LYAR	anti bait coimmunoprecipitation
 DKC1	LYPLA2	two hybrid pooling approach|two hybrid
 DKC1	RUVBL1	anti tag coimmunoprecipitation
 DKC1	SSR1	in vitro
+DKFZp434F0116	MAGEA1	two hybrid
+DKFZp434G0715	UBQLN4	pull down
+DKFZp434K0435	MAP3K3	anti tag coimmunoprecipitation
+DKFZp547P1613	SUMO2	two hybrid pooling approach
+DKFZp564M2422	GET4	two hybrid
+DKFZp564M2422	RAB4A	two hybrid
+DKFZp564M2422	RPS3A	two hybrid
+DKFZp566C233	STT3A	two hybrid
+DKFZp586M1622	DPPA2	two hybrid
+DKFZp586M1622	KAT7	two hybrid
+DKFZp586M1622	KLHL12	two hybrid
+DKFZp586M1622	LNX1	two hybrid
+DKFZp586M1622	LY6H	two hybrid
+DKFZp586M1622	PITX1	two hybrid
+DKFZp586M1622	PRPF3	two hybrid
+DKFZp586M1622	TNFAIP8L1	two hybrid
+DKFZp586M1622	ZNF408	two hybrid
+DKFZp586M1622	pp9964	two hybrid
+DKFZp666O0110	SOCS2	two hybrid
+DKFZp686A1765	TPD52L3	two hybrid
+DKFZp686A1782	HSPA8	two hybrid
+DKFZp686A1782	PHC2	two hybrid
+DKFZp686A1782	SFMBT1	two hybrid
+DKFZp686A1782	UBE2I	two hybrid
+DKFZp686G1650	GADD45G	two hybrid
+DKFZp686G1650	MRFAP1L1	two hybrid
+DKFZp686G1650	PBXIP1	two hybrid
+DKFZp686J08252	DMTN	two hybrid
+DKFZp686N1286	EEF1A1	two hybrid
+DKFZp686N1286	LRIF1	two hybrid
+DKFZp686N1286	SETDB1	two hybrid
+DKFZp686N1286	STX1A	two hybrid
+DKFZp686N1286	UNC119	two hybrid
+DKFZp686N1286	UTP14A	two hybrid
+DKFZp686N18198	EPS8	two hybrid
+DKFZp686N18198	USP13	two hybrid
+DKFZp686O1117	HSPA8	two hybrid
+DKFZp686P15220	SFN	tandem affinity purification
+DKFZp761G0818	HSPB3	two hybrid
+DKFZp761G0818	PTPN4	two hybrid
+DKFZp781H0795	RAB27A	in vivo
+DKFZp781H0795	SMAD9	two hybrid
+DKFZp781I1140	RNPS1	anti bait coimmunoprecipitation
+DKFZp781L0540	SF3B4	two hybrid
 DKK1	DPP4	two hybrid
 DKK1	KREMEN1	in vivo
 DKK1	LRP5	in vivo
@@ -37793,6 +37892,7 @@ DLX5	NCOA2	in vivo
 DLX5	SOX10	two hybrid
 DLX5	SOX8	two hybrid
 DLX5	SPEN	in vitro
+DMA	U2AF2	two hybrid
 DMAP1	DNMT1	in vitro
 DMAP1	EP400	in vivo
 DMAP1	EPC1	in vivo
@@ -39100,6 +39200,7 @@ DSG1	UBC	affinity chromatography technology
 DSG1	USP1	affinity chromatography technology
 DSG1	USP53	anti tag coimmunoprecipitation
 DSG1	VRK3	anti bait coimmunoprecipitation
+DSG1	hCG_1811444	anti bait coimmunoprecipitation
 DSG2	NCSTN	anti tag coimmunoprecipitation
 DSG2	PKP2	affinity chromatography technology
 DSG2	PKP3	two hybrid
@@ -41551,6 +41652,7 @@ EIF1B	UCHL1	anti bait coimmunoprecipitation
 EIF1B	UCHL5	anti bait coimmunoprecipitation
 EIF1B	VAMP3	anti bait coimmunoprecipitation
 EIF1B	VEPH1	anti bait coimmunoprecipitation
+EIF1B	YA61	anti bait coimmunoprecipitation
 EIF1B	YARS	affinity chromatography technology
 EIF2A	MLH1	two hybrid
 EIF2A	NEDD8	pull down
@@ -41718,6 +41820,7 @@ EIF2S3	SUMO1	affinity chromatography technology
 EIF2S3	SUMO2	affinity chromatography technology
 EIF2S3	TRAF6	anti bait coimmunoprecipitation
 EIF2S3	UBC	affinity chromatography technology
+EIF2S3L	UBC	affinity chromatography technology
 EIF3A	EIF3B	mass spectrometry studies of complexes
 EIF3A	EIF3C	mass spectrometry studies of complexes
 EIF3A	EIF3D	mass spectrometry studies of complexes
@@ -42011,6 +42114,7 @@ EIF3J	EIF3J	in vitro
 EIF3J	EIF3K	mass spectrometry studies of complexes
 EIF3J	EIF4G1	pull down
 EIF3J	EIF4G2	pull down
+EIF3J	FLJ00163	two hybrid
 EIF3J	GNB5	two hybrid pooling approach
 EIF3J	GOLM1	two hybrid pooling approach
 EIF3J	MAGED1	two hybrid pooling approach
@@ -42064,6 +42168,7 @@ EIF4A1	EIF4H	surface plasmon resonance
 EIF4A1	H2AFX	anti tag coimmunoprecipitation
 EIF4A1	HDAC5	affinity chromatography technology
 EIF4A1	KIAA0101	affinity chromatography technology
+EIF4A1	LPPR4	two hybrid pooling approach|in vitro
 EIF4A1	MAPK6	two hybrid
 EIF4A1	MEPCE	enzymatic study
 EIF4A1	MYC	tandem affinity purification
@@ -42150,7 +42255,6 @@ EIF4E2	EIF4ENIF1	two hybrid array
 EIF4E2	KRT20	two hybrid
 EIF4E2	KRTAP4-12	two hybrid
 EIF4E2	MDFI	two hybrid array
-EIF4E2	TAP1	two hybrid
 EIF4E2	TRAF6	affinity chromatography technology
 EIF4E2	UBC	affinity chromatography technology
 EIF4E2	UBE2L3	affinity chromatography technology
@@ -42722,6 +42826,7 @@ ELAVL1	MKX	pull down
 ELAVL1	MLEC	pull down
 ELAVL1	MLLT10	pull down
 ELAVL1	MLLT6	pull down
+ELAVL1	MLTK	pull down
 ELAVL1	MMGT1	pull down
 ELAVL1	MNT	pull down
 ELAVL1	MOB3A	pull down
@@ -43033,7 +43138,6 @@ ELAVL1	RPP14	pull down
 ELAVL1	RPRD1A	pull down
 ELAVL1	RPRD2	pull down
 ELAVL1	RPRM	pull down
-ELAVL1	RPS20P3	pull down
 ELAVL1	RPS6KB1	pull down
 ELAVL1	RQCD1	pull down
 ELAVL1	RRM2	pull down
@@ -43067,6 +43171,7 @@ ELAVL1	SDE2	pull down
 ELAVL1	SEC14L4	pull down
 ELAVL1	SEC22B	pull down
 ELAVL1	SEH1L	pull down
+ELAVL1	SELT	pull down
 ELAVL1	SEMA4D	pull down
 ELAVL1	SENP1	pull down
 ELAVL1	SENP2	pull down
@@ -44768,6 +44873,7 @@ EPPK1	TSC22D1	anti bait coimmunoprecipitation
 EPPK1	UBC	affinity chromatography technology
 EPPK1	UCHL5	affinity chromatography technology
 EPPK1	WRAP73	anti bait coimmunoprecipitation
+EPR1	F2RL1	anti bait coimmunoprecipitation
 EPRS	ETS1	display technology
 EPRS	HDAC5	affinity chromatography technology
 EPRS	HSP90AA1	in vitro
@@ -47554,6 +47660,7 @@ FBXO11	TP53	pull down
 FBXO11	TXN	anti bait coimmunoprecipitation
 FBXO11	UBC	affinity chromatography technology
 FBXO11	USP16	unspecified method
+FBXO11	YA61	anti bait coimmunoprecipitation
 FBXO15	SKP1	two hybrid
 FBXO16	SKP1	two hybrid
 FBXO16	UBC	affinity chromatography technology
@@ -48037,7 +48144,6 @@ FER	IRS1	in vivo
 FER	JAK1	in vitro
 FER	JUP	in vitro
 FER	SCN9A	affinity chromatography technology
-FER	SIRT5	affinity chromatography technology
 FER	STAT3	in vivo
 FER	TMF1	in vitro
 FER	UBC	affinity chromatography technology
@@ -48719,7 +48825,6 @@ FLI1	UBC	affinity chromatography technology
 FLI1	UBE2I	two hybrid
 FLI1	VCAN	two hybrid
 FLII	GRIP1	in vivo
-FLII	LMO2	anti tag coimmunoprecipitation
 FLII	LRRFIP1	affinity chromatography technology
 FLII	LRRFIP2	two hybrid
 FLII	MYD88	affinity chromatography technology
@@ -48727,6 +48832,14 @@ FLII	OPTN	two hybrid
 FLII	PRMT1	in vivo
 FLII	TRAIP	two hybrid
 FLII	UBC	enzymatic study
+FLJ00163	GPR135	two hybrid
+FLJ00163	MPC1	two hybrid
+FLJ00163	PLK1	two hybrid
+FLJ00163	RFX1	two hybrid
+FLJ00163	SIRT7	two hybrid
+FLJ00305	SEC13	two hybrid
+FLJ00318	TMPRSS3	two hybrid
+FLJ00318	UBQLN4	two hybrid
 FLNA	FLNB	two hybrid
 FLNA	FURIN	in vivo
 FLNA	FYN	peptide array
@@ -49452,6 +49565,7 @@ FPR2	MT-RNR2	in vitro
 FRA10AC1	GDPD2	two hybrid
 FRA10AC1	GLRX3	two hybrid
 FRA10AC1	HABP4	in vitro
+FRA10AC1	LPPR4	two hybrid pooling approach|two hybrid
 FRA10AC1	MAP3K12	two hybrid pooling approach
 FRA10AC1	VPS29	two hybrid
 FRAS1	UBC	affinity chromatography technology
@@ -51891,6 +52005,7 @@ GH1	STRAP	anti bait coimmunoprecipitation
 GH1	TMCO1	anti bait coimmunoprecipitation
 GH1	U2AF2	anti bait coimmunoprecipitation
 GH1	UBE2D3	anti bait coimmunoprecipitation
+GH1	YA61	anti bait coimmunoprecipitation
 GH2	GHR	in vivo
 GHITM	SARM1	affinity chromatography technology
 GHITM	SUMO2	affinity chromatography technology
@@ -53021,6 +53136,7 @@ GOLGA2	GORASP2	two hybrid
 GOLGA2	GPS2	in vitro
 GOLGA2	HTRA1	two hybrid
 GOLGA2	ITSN2	two hybrid
+GOLGA2	MST4	two hybrid
 GOLGA2	NCSTN	fluorescence microscopy
 GOLGA2	PDCD6	confocal microscopy
 GOLGA2	POM121	two hybrid
@@ -53659,6 +53775,7 @@ GRB2	KHDRBS1	pull down
 GRB2	KHDRBS2	in vitro
 GRB2	KHSRP	pull down
 GRB2	KIAA0101	affinity chromatography technology
+GRB2	KIAA0864	pull down
 GRB2	KIAA1549L	two hybrid
 GRB2	KIF13A	peptide array
 GRB2	KIF26A	anti tag coimmunoprecipitation
@@ -53950,6 +54067,8 @@ GRB2	ZNF274	pull down
 GRB2	ZNF311	pull down
 GRB2	ZNF32	pull down
 GRB2	ZNF587	pull down
+GRB2	rab1b	pull down
+GRB2	zf30	pull down
 GRB7	GRB7	far western blotting
 GRB7	HAX1	anti bait coimmunoprecipitation
 GRB7	INSR	in vivo
@@ -55065,7 +55184,6 @@ GYPB	RHAG	in vivo
 GYPC	MPP1	surface plasmon resonance
 GYPC	PDIA3	in vitro
 GYPC	PFKM	two hybrid
-GYPC	UBC	enzymatic study
 GYS1	MAP1LC3B	anti tag coimmunoprecipitation
 GYS1	MAP1LC3C	anti tag coimmunoprecipitation
 GYS1	MAPKAPK5	in vitro
@@ -55544,7 +55662,6 @@ HARS	TNIK	two hybrid
 HARS	TRAF6	anti bait coimmunoprecipitation
 HARS	UBC	affinity chromatography technology
 HAS1	VHL	affinity chromatography technology
-HAS2	TIMM17A	affinity chromatography technology
 HAS2	UBC	affinity chromatography technology
 HAT1	HIST1H3B	affinity chromatography technology
 HAT1	HIST2H4A	tandem affinity purification
@@ -55634,6 +55751,7 @@ HBA2	UCHL5	affinity chromatography technology
 HBB	HBG2	in vitro
 HBB	HBZ	in vitro
 HBB	HP	in vivo
+HBB	SELT	two hybrid
 HBB	UBC	affinity chromatography technology
 HBB	UCHL5	affinity chromatography technology
 HBB	UPF3A	affinity chromatography technology
@@ -55670,6 +55788,7 @@ HBZ	HBZ	in vitro
 HBZ	IKBKG	pull down
 HBZ	JUND	pull down
 HBZ	SP1	pull down
+HCA90	IKBKB	anti bait coimmunoprecipitation
 HCFC1	HCFC1R1	affinity chromatography technology
 HCFC1	HCFC2	affinity chromatography technology
 HCFC1	HDAC1	affinity chromatography technology
@@ -55724,6 +55843,8 @@ HCFC1	WDR82	affinity chromatography technology
 HCFC1	YY1	biochemical
 HCFC1	ZBTB17	two hybrid
 HCFC1	ZNF335	affinity chromatography technology
+HCFC1R1	HMP19	two hybrid pooling approach
+HCFC1R1	NSG2	in vitro
 HCFC2	IRF2	affinity chromatography technology
 HCFC2	KMT2A	molecular sieving
 HCFC2	RBBP5	molecular sieving
@@ -55903,6 +56024,7 @@ HDAC1	MYC	tandem affinity purification
 HDAC1	MYOD1	affinity chromatography technology
 HDAC1	MYT1	affinity chromatography technology
 HDAC1	NCOR2	coimmunoprecipitation
+HDAC1	NFE4	enzymatic study
 HDAC1	NFIX	affinity chromatography technology
 HDAC1	NFKB1	in vivo
 HDAC1	NFKBIA	affinity chromatography technology
@@ -57161,6 +57283,14 @@ HDGF	XRCC5	affinity chromatography technology
 HDGF	XRCC6	affinity chromatography technology
 HDGF	ZC3HAV1	tandem affinity purification
 HDGF	ZRANB2	affinity chromatography technology
+HDGFRP2	HIST2H3D	unspecified method
+HDGFRP2	S100A9	two hybrid
+HDGFRP2	TERF2	two hybrid
+HDGFRP2	UBC	affinity chromatography technology
+HDGFRP3	SMURF1	in vivo
+HDGFRP3	SMURF2	in vivo
+HDGFRP3	TERF2IP	two hybrid
+HDGFRP3	UBC	affinity chromatography technology
 HDHD2	LUC7L2	in vitro
 HDHD2	MGST2	in vitro
 HDHD2	PIP5K1C	in vitro
@@ -57659,6 +57789,8 @@ HIGD1A	UBC	affinity chromatography technology
 HIGD1B	MYZAP	two hybrid pooling approach|two hybrid
 HIGD1B	POLR2M	in vitro
 HILPDA	UBC	affinity chromatography technology
+HIN1L	ILK	anti bait coimmunoprecipitation
+HIN1L	NUP98	anti bait coimmunoprecipitation
 HINFP	MBD2	two hybrid
 HINFP	NPAT	two hybrid
 HINFP	SREBF2	affinity chromatography technology
@@ -58477,6 +58609,7 @@ HK3	PTGDS	in vivo
 HK3	ZBTB17	in vivo
 HKDC1	UBC	affinity chromatography technology
 HLA-A	HLA-A	anti bait coimmunoprecipitation
+HLA-A	HLA-A*03	anti bait coimmunoprecipitation
 HLA-A	HLA-B	anti bait coimmunoprecipitation
 HLA-A	HLA-C	anti bait coimmunoprecipitation
 HLA-A	HLA-G	anti bait coimmunoprecipitation
@@ -58697,6 +58830,7 @@ HLA-B	VDAC3	anti bait coimmunoprecipitation
 HLA-B	VMA21	anti bait coimmunoprecipitation
 HLA-B	VPS35	anti bait coimmunoprecipitation
 HLA-B	WDR48	anti bait coimmunoprecipitation
+HLA-B	YA61	anti bait coimmunoprecipitation
 HLA-C	HSPA5	in vivo
 HLA-C	IMPDH2	anti bait coimmunoprecipitation
 HLA-C	KIR2DL1	in vitro
@@ -58726,6 +58860,7 @@ HLA-C	PSME3	anti bait coimmunoprecipitation
 HLA-C	RHPN2	anti bait coimmunoprecipitation
 HLA-C	RNF213	anti bait coimmunoprecipitation
 HLA-C	SARS	anti bait coimmunoprecipitation
+HLA-C	SEP15	anti bait coimmunoprecipitation
 HLA-C	TANK	two hybrid
 HLA-C	TAP2	in vivo
 HLA-C	TAPBP	in vivo
@@ -58733,6 +58868,7 @@ HLA-C	TBCA	anti bait coimmunoprecipitation
 HLA-C	TRIM28	anti bait coimmunoprecipitation
 HLA-C	TUFM	anti bait coimmunoprecipitation
 HLA-C	UGGT1	anti bait coimmunoprecipitation
+HLA-C	YA61	anti bait coimmunoprecipitation
 HLA-C	YBX1	two hybrid
 HLA-DMA	HLA-DMB	fluorescence polarization spectroscopy
 HLA-DMA	HLA-DOA	in vivo
@@ -58762,6 +58898,7 @@ HLA-DQA2	UBC	affinity chromatography technology
 HLA-DQB1	INS	in vitro
 HLA-DQB1	UBC	affinity chromatography technology
 HLA-DQB2	UBC	affinity chromatography technology
+HLA-DR4	HLA-DR4	x-ray crystallography
 HLA-DRA	HLA-DRB1	in vivo|x-ray crystallography
 HLA-DRA	HLA-DRB5	in vitro
 HLA-DRA	HSP90AA1	affinity chromatography technology
@@ -58944,7 +59081,7 @@ HMGB1	TLR4	in vivo
 HMGB1	TP53	affinity chromatography technology
 HMGB1	TP73	pull down
 HMGB1	TXN	nuclear magnetic resonance
-HMGB1	UBC	affinity chromatography technology|enzymatic study
+HMGB1	UBC	affinity chromatography technology
 HMGB1	UNC119	in vitro|two hybrid
 HMGB1	ZFP36	in vitro
 HMGB1	ZNF24	display technology
@@ -59027,6 +59164,8 @@ HMOX2	RIF1	two hybrid pooling approach
 HMOX2	SETDB1	two hybrid pooling approach
 HMOX2	SKA2	two hybrid
 HMOX2	VOPP1	two hybrid pooling approach
+HMP19	SLC35F6	two hybrid pooling approach
+HMP19	STX18	two hybrid pooling approach
 HMX3	STAMBPL1	affinity chromatography technology
 HMX3	USP38	affinity chromatography technology
 HN1	SFPQ	two hybrid pooling approach
@@ -59135,6 +59274,7 @@ HNRNPA1	KIAA0101	affinity chromatography technology
 HNRNPA1	KIAA0368	enzymatic study
 HNRNPA1	LARP7	enzymatic study
 HNRNPA1	LMNB1	affinity chromatography technology
+HNRNPA1	LOC440563	enzymatic study
 HNRNPA1	LRPPRC	affinity chromatography technology
 HNRNPA1	MAP3K14	anti tag coimmunoprecipitation
 HNRNPA1	MEF2A	affinity chromatography technology
@@ -59718,6 +59858,9 @@ HOPX	HSPA4	enzymatic study
 HOPX	SRF	in vivo
 HOPX	TLX3	two hybrid
 HOPX	ZSCAN1	two hybrid
+HOXA-9	PLSCR1	two hybrid
+HOXA-9	RBPMS	two hybrid
+HOXA-9	TRIP6	two hybrid
 HOXA10	HOXA10	in vitro
 HOXA10	MEIS1	in vitro
 HOXA10	PBX1	in vitro
@@ -61128,6 +61271,7 @@ HSPH1	UBC	affinity chromatography technology
 HSPH1	VAV2	two hybrid
 HSPH1	YWHAZ	pull down
 HSPH1	ZBTB7B	affinity chromatography technology
+HSU53209	YWHAG	anti bait coimmunoprecipitation
 HTATIP2	NCOA5	in vitro
 HTATIP2	UBC	enzymatic study
 HTATSF1	POLR2A	in vitro
@@ -61813,9 +61957,11 @@ IFT20	PTPN12	two hybrid
 IFT20	TRAF3IP1	two hybrid
 IFT20	TREX1	two hybrid
 IFT20	UBC	affinity chromatography technology
+IFT20	argBPIB	two hybrid
 IFT43	UBC	affinity chromatography technology
 IFT52	UBC	affinity chromatography technology
 IFT57	KRT17	two hybrid
+IFT57	LOC51064	two hybrid pooling approach
 IFT57	SMAD2	display technology
 IFT57	UBC	affinity chromatography technology
 IFT74	UBC	affinity chromatography technology
@@ -62318,6 +62464,7 @@ IKBKE	SERBP1	anti bait coimmunoprecipitation
 IKBKE	SET	anti bait coimmunoprecipitation
 IKBKE	SF3A1	anti bait coimmunoprecipitation
 IKBKE	SF3B1	anti bait coimmunoprecipitation
+IKBKE	SF3B14	anti bait coimmunoprecipitation
 IKBKE	SFXN1	anti bait coimmunoprecipitation
 IKBKE	SGTA	anti bait coimmunoprecipitation
 IKBKE	SHMT2	anti bait coimmunoprecipitation
@@ -62396,6 +62543,7 @@ IKBKE	VDAC3	anti bait coimmunoprecipitation
 IKBKE	VMA21	anti bait coimmunoprecipitation
 IKBKE	XIAP	enzymatic study
 IKBKE	XPO5	anti bait coimmunoprecipitation
+IKBKE	YA61	anti bait coimmunoprecipitation
 IKBKE	YARS	anti bait coimmunoprecipitation
 IKBKE	ZC3H15	anti bait coimmunoprecipitation
 IKBKG	IKBKG	anti tag coimmunoprecipitation
@@ -62554,7 +62702,6 @@ IKBKG	STK25	pull down
 IKBKG	STX11	two hybrid
 IKBKG	SUMO1	affinity chromatography technology
 IKBKG	SYT1	protein array
-IKBKG	T	tandem affinity purification
 IKBKG	TAB2	affinity chromatography technology
 IKBKG	TAB3	pull down
 IKBKG	TAF7	two hybrid
@@ -62876,6 +63023,7 @@ IL36RN	MCM6	two hybrid
 IL36RN	SKIL	two hybrid
 IL36RN	SSBP2	two hybrid
 IL36RN	SSBP4	two hybrid pooling approach
+IL36RN	SSDP4	two hybrid
 IL36RN	ZNF512B	two hybrid
 IL37	SMAD3	pull down
 IL3	IL3	in vivo
@@ -64686,6 +64834,7 @@ ITSN1	KIF5A	two hybrid
 ITSN1	LMO4	two hybrid
 ITSN1	MAPK6	two hybrid
 ITSN1	MAPK8IP2	two hybrid
+ITSN1	MLTK	two hybrid
 ITSN1	MRPL20	two hybrid pooling approach
 ITSN1	MTUS2	two hybrid
 ITSN1	PACSIN3	two hybrid
@@ -65329,6 +65478,7 @@ KAT2B	NCOA1	in vivo
 KAT2B	NCOA3	in vitro
 KAT2B	NCOA4	two hybrid
 KAT2B	NFE2	enzymatic study
+KAT2B	NFE4	enzymatic study
 KAT2B	NFYB	affinity chromatography technology
 KAT2B	NKX3-1	affinity chromatography technology
 KAT2B	NOTCH1	in vivo
@@ -66313,7 +66463,6 @@ KIAA0101	MRPS17	affinity chromatography technology
 KIAA0101	MRPS22	affinity chromatography technology
 KIAA0101	MRPS27	affinity chromatography technology
 KIAA0101	MSH6	affinity chromatography technology
-KIAA0101	MT-CO1	affinity chromatography technology
 KIAA0101	MTDH	affinity chromatography technology
 KIAA0101	MTHFD1	affinity chromatography technology
 KIAA0101	MYBBP1A	affinity chromatography technology
@@ -66571,6 +66720,7 @@ KIAA0101	SET	affinity chromatography technology
 KIAA0101	SETD3	affinity chromatography technology
 KIAA0101	SF3A1	affinity chromatography technology
 KIAA0101	SF3B1	affinity chromatography technology
+KIAA0101	SF3B14	affinity chromatography technology
 KIAA0101	SF3B2	affinity chromatography technology
 KIAA0101	SF3B3	affinity chromatography technology
 KIAA0101	SF3B4	affinity chromatography technology
@@ -66679,7 +66829,6 @@ KIAA0101	U2AF2	affinity chromatography technology
 KIAA0101	UBAP2L	affinity chromatography technology
 KIAA0101	UBC	affinity chromatography technology
 KIAA0101	UBE2L3	affinity chromatography technology
-KIAA0101	UOX	affinity chromatography technology
 KIAA0101	UPF1	affinity chromatography technology
 KIAA0101	UPF3B	affinity chromatography technology
 KIAA0101	UQCRFS1	affinity chromatography technology
@@ -66694,6 +66843,7 @@ KIAA0101	WDR18	affinity chromatography technology
 KIAA0101	WDR77	affinity chromatography technology
 KIAA0101	WIBG	affinity chromatography technology
 KIAA0101	WTAP	affinity chromatography technology
+KIAA0101	WUGSC:H_RG054D04.1	affinity chromatography technology
 KIAA0101	XAB2	affinity chromatography technology
 KIAA0101	XPNPEP3	affinity chromatography technology
 KIAA0101	XRCC5	affinity chromatography technology
@@ -67547,6 +67697,7 @@ KLRK1	RAET1G	in vitro
 KLRK1	TYROBP	in vivo
 KLRK1	ULBP3	x-ray crystallography
 KMT2A	MEN1	molecular sieving
+KMT2A	MLL/AF6	affinity chromatography technology
 KMT2A	NR3C1	display technology
 KMT2A	PAF1	anti tag coimmunoprecipitation
 KMT2A	PLXNB1	in vivo
@@ -67923,6 +68074,7 @@ KRT15	USP2	two hybrid
 KRT15	WAC	two hybrid pooling approach
 KRT15	ZC2HC1C	two hybrid pooling approach
 KRT15	ZNF638	two hybrid
+KRT15	argBPIB	two hybrid
 KRT16	NEDD8	affinity chromatography technology
 KRT16	TANK	anti tag coimmunoprecipitation
 KRT16	TCHP	two hybrid
@@ -68050,6 +68202,7 @@ KRT19	USHBP1	two hybrid pooling approach
 KRT19	USP32	anti tag coimmunoprecipitation
 KRT19	YWHAZ	coimmunoprecipitation
 KRT19	ZNF638	two hybrid
+KRT19	argBPIB	two hybrid
 KRT1	KRT5	in vivo
 KRT1	LOR	pull down
 KRT1	MBL2	in vivo
@@ -68070,6 +68223,7 @@ KRT20	UBC	affinity chromatography technology
 KRT20	VIM	two hybrid pooling approach
 KRT20	ZC2HC1C	two hybrid
 KRT20	ZC3H14	two hybrid
+KRT20	argBPIB	two hybrid
 KRT23	UBC	affinity chromatography technology
 KRT24	NEDD8	affinity chromatography technology
 KRT25	UBC	affinity chromatography technology
@@ -68141,6 +68295,7 @@ KRT77	USP53	affinity chromatography technology
 KRT78	SIRT2	anti bait coimmunoprecipitation
 KRT78	UBC	affinity chromatography technology
 KRT78	UCHL5	affinity chromatography technology
+KRT78	hCG_1811444	anti bait coimmunoprecipitation
 KRT79	UBC	affinity chromatography technology
 KRT7	LAPTM5	two hybrid
 KRT7	PCNA	far western blotting
@@ -68787,6 +68942,7 @@ LDB1	SSBP1	in vitro
 LDB1	SSBP2	anti bait coimmunoprecipitation
 LDB1	SSBP3	anti bait coimmunoprecipitation
 LDB1	SSBP4	two hybrid
+LDB1	SSDP4	two hybrid
 LDB1	TAL1	affinity chromatography technology
 LDB1	TCF3	affinity chromatography technology
 LDB1	TOLLIP	two hybrid
@@ -69436,6 +69592,9 @@ LNX2	UBC	affinity chromatography technology
 LNX2	UBE2I	two hybrid
 LNX2	UBE2T	two hybrid
 LNX2	UBE2Z	two hybrid
+LOC440563	UBC	affinity chromatography technology
+LOC51064	PTPRK	two hybrid pooling approach
+LOC649330	UBC	affinity chromatography technology
 LOH12CR1	PUF60	two hybrid pooling approach
 LONP1	LOXL4	pull down
 LONP1	MAST1	pull down
@@ -69510,6 +69669,8 @@ LPL	VLDLR	in vitro
 LPP	SCRIB	in vivo
 LPP	SHPRH	two hybrid pooling approach
 LPP	VASP	in vivo
+LPPR3	STRN4	two hybrid
+LPPR3	UBC	affinity chromatography technology
 LPXN	MAP2K7	two hybrid
 LPXN	MAPK6	two hybrid
 LPXN	PHF21A	two hybrid
@@ -69815,6 +69976,7 @@ LRRK1	LYZ	anti bait coimmunoprecipitation
 LRRK1	PAK4	anti bait coimmunoprecipitation
 LRRK1	RIMS1	anti bait coimmunoprecipitation
 LRRK1	S100A8	anti bait coimmunoprecipitation
+LRRK1	Tcr-alpha	anti bait coimmunoprecipitation
 LRRK2	LRRK2	pull down
 LRRK2	NFATC2	anti tag coimmunoprecipitation
 LRRK2	PARK2	anti tag coimmunoprecipitation
@@ -70480,6 +70642,7 @@ MAGEA11	NDUFB9	two hybrid pooling approach
 MAGEA11	NIF3L1	two hybrid
 MAGEA11	NOL4	two hybrid
 MAGEA11	NSUN4	two hybrid
+MAGEA11	NULP1	two hybrid
 MAGEA11	OTUB2	two hybrid pooling approach|two hybrid
 MAGEA11	PHYH	two hybrid pooling approach
 MAGEA11	PNKD	two hybrid
@@ -71014,6 +71177,7 @@ MAP2K4	MAPK14	in vivo
 MAP2K4	MAPK8	in vivo
 MAP2K4	MAPK8IP3	affinity chromatography technology
 MAP2K4	MAPK9	in vivo
+MAP2K4	MLTK	in vitro
 MAP2K4	NPHS1	affinity chromatography technology
 MAP2K4	PML	imaging technique
 MAP2K4	RBBP8	two hybrid
@@ -71040,6 +71204,7 @@ MAP2K6	MAPK12	in vitro
 MAP2K6	MAPK13	in vitro
 MAP2K6	MAPK14	anti tag coimmunoprecipitation
 MAP2K6	MLH1	two hybrid
+MAP2K6	MLTK	in vitro
 MAP2K6	NPHS1	affinity chromatography technology
 MAP2K6	PKN1	anti tag coimmunoprecipitation
 MAP2K6	PLCB2	two hybrid
@@ -71064,6 +71229,7 @@ MAP2K7	MAPK8IP1	protein kinase assay
 MAP2K7	MAPK8IP2	affinity chromatography technology
 MAP2K7	MAPK8IP3	pull down
 MAP2K7	MAPK9	in vivo
+MAP2K7	MLTK	in vitro
 MAP2K7	RPL30	two hybrid
 MAP2K7	TRAF6	in vitro
 MAP2K7	TRIB1	in vivo
@@ -71072,6 +71238,7 @@ MAP2K7	UBC	affinity chromatography technology
 MAP2K7	VRK2	pull down
 MAP3K10	MAPK8IP1	affinity chromatography technology
 MAP3K10	MAPK8IP2	affinity chromatography technology
+MAP3K10	MLK4	two hybrid
 MAP3K10	NEUROD1	two hybrid
 MAP3K10	PHB	in vitro
 MAP3K10	RAC1	two hybrid
@@ -72540,6 +72707,7 @@ MAX	YY1	affinity chromatography technology
 MAX	ZBTB17	affinity chromatography technology
 MB21D1	UBC	affinity chromatography technology
 MB21D2	UBC	affinity chromatography technology
+MB2	NEK6	anti bait coimmunoprecipitation
 MB	PSMD4	affinity chromatography technology
 MB	UBC	affinity chromatography technology
 MBD1	OASL	in vivo
@@ -72633,6 +72801,7 @@ MBP	MELK	in vitro
 MBP	MICU2	in vitro
 MBP	MKNK1	in vitro
 MBP	MMP7	in vitro
+MBP	MST4	in vivo
 MBP	NEK9	in vivo
 MBP	PAK1	in vitro
 MBP	PBK	filter binding
@@ -72781,6 +72950,7 @@ MCC	SDHB	anti bait coimmunoprecipitation
 MCC	SEC13	anti bait coimmunoprecipitation
 MCC	SEC63	anti bait coimmunoprecipitation
 MCC	SEPT2	anti bait coimmunoprecipitation
+MCC	SF3B14	anti bait coimmunoprecipitation
 MCC	SFXN1	anti bait coimmunoprecipitation
 MCC	SMC3	anti bait coimmunoprecipitation
 MCC	SMC4	anti bait coimmunoprecipitation
@@ -74546,6 +74716,7 @@ MGARP	SCN9A	protein complementation assay
 MGAT1	SMAD9	two hybrid
 MGAT1	UBC	affinity chromatography technology
 MGAT4B	UBC	affinity chromatography technology
+MGC16703	UBC	affinity chromatography technology
 MGEA5	OGT	affinity chromatography technology
 MGEA5	RNF32	pull down
 MGEA5	SIN3A	affinity chromatography technology
@@ -74693,6 +74864,7 @@ MID2	UBE2E2	two hybrid
 MID2	UBE2E3	two hybrid
 MID2	UBE2N	two hybrid array|two hybrid
 MID2	UBE2U	two hybrid array|two hybrid
+MIDN	MLTK	two hybrid
 MIDN	UBC	affinity chromatography technology
 MIER1	SP1	in vivo
 MIF4GD	PPARG	two hybrid
@@ -74961,6 +75133,7 @@ MLH1	ZC3H11A	two hybrid array
 MLH1	ZER1	two hybrid
 MLH3	MLH3	in vitro
 MLH3	MSH4	affinity chromatography technology
+MLK4	YWHAB	anti bait coimmunoprecipitation
 MLKL	NDUFB7	two hybrid
 MLKL	PBX2	two hybrid
 MLKL	PITPNA	affinity chromatography technology
@@ -75034,6 +75207,24 @@ MLST8	RICTOR	anti bait coimmunoprecipitation
 MLST8	RPTOR	anti tag coimmunoprecipitation
 MLST8	SQSTM1	affinity chromatography technology
 MLST8	UBC	affinity chromatography technology
+MLTK	NEDD4L	enzymatic study
+MLTK	PKN1	anti tag coimmunoprecipitation
+MLTK	RBX1	two hybrid
+MLTK	RNF19A	two hybrid
+MLTK	RPS6KA5	two hybrid
+MLTK	SFN	tandem affinity purification
+MLTK	SMARCB1	two hybrid
+MLTK	TGFBR1	affinity chromatography technology
+MLTK	UBC	affinity chromatography technology
+MLTK	UNC119	two hybrid
+MLTK	VPS33B	two hybrid
+MLTK	YWHAG	anti bait coimmunoprecipitation
+MLTK	YWHAZ	two hybrid
+MLTK	ZNF33A	affinity chromatography technology
+MLTK	ZNF567	two hybrid
+MLTK	ZNF593	two hybrid
+MLTK	ZNF746	two hybrid
+MLTK	ZNF775	two hybrid
 MLX	MLXIP	two hybrid
 MLX	MLXIPL	two hybrid
 MLX	MNT	two hybrid
@@ -75282,6 +75473,7 @@ MOB4	UBC	affinity chromatography technology
 MOB4	UBE2V2	two hybrid pooling approach
 MOB4	VHL	affinity chromatography technology
 MOB4	ZRANB1	anti tag coimmunoprecipitation
+MOB4	hCG_1811444	anti bait coimmunoprecipitation
 MOCOS	UBC	affinity chromatography technology
 MOCS1	PACSIN1	affinity chromatography technology
 MOCS1	PACSIN2	affinity chromatography technology
@@ -75365,6 +75557,7 @@ MORF4L2	TUBA1A	affinity chromatography technology
 MORF4L2	TUBB2A	affinity chromatography technology
 MORF4L2	UBC	affinity chromatography technology
 MORF4L2	ZNF131	affinity chromatography technology
+MORF4L2	hCG_2022592	anti bait coimmunoprecipitation
 MORN1	UBC	affinity chromatography technology
 MORN2	MPP3	two hybrid pooling approach
 MOS	MYOD1	in vivo
@@ -75913,6 +76106,9 @@ MST1R	YWHAE	in vivo
 MST1R	YWHAH	in vivo
 MST1R	YWHAQ	in vivo
 MST1R	YWHAZ	in vivo
+MST4	MYZAP	two hybrid pooling approach
+MST4	RAF1	in vitro
+MST4	STRIP1	anti tag coimmunoprecipitation
 MSTN	MSTN	in vitro
 MSTN	SGTA	in vivo
 MSTN	TCAP	in vivo
@@ -75961,10 +76157,7 @@ MT-ATP8	WNK1	two hybrid
 MT-CO1	PIN1	affinity chromatography technology
 MT-CO1	PPP2CB	affinity chromatography technology
 MT-CO1	PRDX4	two hybrid
-MT-CO1	SAA4	two hybrid
-MT-CO1	SERBP1	two hybrid
-MT-CO1	SUMO1	affinity chromatography technology
-MT-CO1	UBC	affinity chromatography technology|enzymatic study
+MT-CO1	UBC	affinity chromatography technology
 MT-CO1	WWP2	affinity chromatography technology
 MT-CO2	NELFCD	affinity chromatography technology
 MT-CO2	PINX1	anti bait coimmunoprecipitation
@@ -75992,7 +76185,6 @@ MT-ND5	SUMO1	affinity chromatography technology
 MT-ND5	SUMO2	affinity chromatography technology
 MT-ND5	UBC	affinity chromatography technology
 MT-ND6	NDUFS3	enzymatic study
-MT-ND6	UBC	affinity chromatography technology
 MT-RNR2	MT-RNR2	in vitro
 MT-RNR2	PPA1	two hybrid
 MT-RNR2	PRDX1	two hybrid
@@ -77191,7 +77383,6 @@ N4BP3	NEDD4	pull down
 N4BP3	USP20	anti tag coimmunoprecipitation
 N4BP3	YWHAG	in vivo
 N6AMT1	TRMT112	pull down
-NA	UBC	affinity chromatography technology|enzymatic study
 NAA10	NAA15	in vivo
 NAA10	NAA16	in vivo
 NAA10	NAT1	in vitro
@@ -77692,6 +77883,7 @@ NCK2	TRIP6	two hybrid
 NCK2	UBC	pull down
 NCK2	WBP11	two hybrid pooling approach
 NCK2	WIPF2	affinity chromatography technology
+NCK2	argBPIB	two hybrid
 NCKAP1	RAC1	molecular sieving
 NCKAP1	RYK	affinity chromatography technology
 NCKAP1	SIRT7	affinity chromatography technology
@@ -77713,6 +77905,7 @@ NCKIPSD	YWHAG	in vivo
 NCL	NDN	display technology
 NCL	NDRG1	anti bait coimmunoprecipitation
 NCL	NEDD8	affinity chromatography technology
+NCL	NFE4	anti bait coimmunoprecipitation
 NCL	NFKB2	anti tag coimmunoprecipitation
 NCL	NFKBIB	anti tag coimmunoprecipitation
 NCL	NOP56	affinity chromatography technology
@@ -78211,6 +78404,7 @@ NDUFA13	XRN1	two hybrid
 NDUFA1	SMURF2	pull down
 NDUFA1	TRIM63	pull down
 NDUFA1	UBC	affinity chromatography technology
+NDUFA2	NSG2	two hybrid
 NDUFA4	TSC22D1	anti bait coimmunoprecipitation
 NDUFA4	UBC	affinity chromatography technology
 NDUFA4	WRAP73	anti bait coimmunoprecipitation
@@ -78984,6 +79178,9 @@ NFE2L2	UBE2E2	pull down
 NFE2L2	UBE2E3	pull down
 NFE2L2	YY1	affinity chromatography technology
 NFE2L3	UBC	affinity chromatography technology
+NFE4	PRMT5	anti bait coimmunoprecipitation
+NFE4	TFCP2	in vivo
+NFE4	UBC	enzymatic study
 NFIA	NFIA	footprinting
 NFIB	NFIC	in vitro
 NFIB	NFIX	in vitro
@@ -78999,6 +79196,7 @@ NFIC	TPD52L3	two hybrid
 NFIC	UBC	affinity chromatography technology
 NFIC	ZCCHC14	two hybrid
 NFIC	ZKSCAN7	two hybrid
+NFIC	ZNF	two hybrid
 NFIL3	SUMO2	affinity chromatography technology
 NFIL3	UBC	affinity chromatography technology
 NFIX	NFIX	in vivo
@@ -79681,6 +79879,7 @@ NME2	TERF1	in vitro
 NME2	UBE2K	anti bait coimmunoprecipitation
 NME2	UBE2N	anti bait coimmunoprecipitation
 NME2	VIM	in vivo
+NME2	YA61	anti bait coimmunoprecipitation
 NME2	YWHAZ	pull down
 NME3	NME3	in vivo
 NME3	PHLDA3	anti bait coimmunoprecipitation
@@ -80769,6 +80968,17 @@ NSFL1C	UBR1	affinity chromatography technology
 NSFL1C	UFD1L	affinity chromatography technology
 NSFL1C	VCP	in vivo
 NSFL1C	VCPIP1	anti tag coimmunoprecipitation
+NSG1	STX12	in vivo
+NSG2	RIF1	two hybrid
+NSG2	RPS27	two hybrid
+NSG2	SCN5A	two hybrid
+NSG2	SLC35F6	two hybrid
+NSG2	STX18	two hybrid
+NSG2	SUPT4H1	two hybrid
+NSG2	TNNT1	two hybrid
+NSG2	TSPAN6	two hybrid
+NSG2	UCHL3	two hybrid
+NSG2	ZNF768	two hybrid
 NSL1	NSL1	in vivo
 NSL1	SGOL1	two hybrid
 NSL1	SUGT1	affinity chromatography technology
@@ -81039,6 +81249,7 @@ NUFIP2	SIRT7	affinity chromatography technology
 NUFIP2	TSG101	unspecified method
 NUFIP2	UBC	affinity chromatography technology
 NUFIP2	YWHAG	in vivo
+NULP1	SAT1	two hybrid
 NUMA1	PIM1	affinity chromatography technology
 NUMA1	RAD21	in vivo
 NUMA1	RPAP1	enzymatic study
@@ -81433,6 +81644,7 @@ OIP5	RARG	two hybrid
 OIP5	TMPO	two hybrid
 OIP5	TSSK3	two hybrid
 OIP5	UBC	affinity chromatography technology
+OK/KNS-cl.4	SUFU	two hybrid
 OLA1	PRMT5	two hybrid pooling approach
 OLA1	PUF60	affinity chromatography technology
 OLA1	RAD21	two hybrid
@@ -82490,6 +82702,9 @@ PASK	UBC	affinity chromatography technology
 PASK	WDR5	affinity chromatography technology
 PATL1	UBC	affinity chromatography technology
 PATZ1	RNF4	two hybrid
+PAUF	TLR2	anti tag coimmunoprecipitation
+PAUF	TLR4	anti tag coimmunoprecipitation
+PAUF	TLR5	anti tag coimmunoprecipitation
 PAWR	PAWR	in vivo
 PAWR	PML	in vivo
 PAWR	PRKCZ	affinity chromatography technology
@@ -82605,7 +82820,6 @@ PBLD	STRAP	two hybrid
 PBLD	TRIP13	two hybrid
 PBLD	UBC	affinity chromatography technology
 PBRM1	PHB	display technology
-PBRM1	PRPF40A	pull down
 PBRM1	PTS	in vivo
 PBRM1	SCHIP1	display technology
 PBRM1	SIRT7	affinity chromatography technology
@@ -82768,6 +82982,7 @@ PCDHGC3	UBC	affinity chromatography technology
 PCED1A	PLSCR1	two hybrid pooling approach
 PCED1A	TNFRSF14	anti bait coimmunoprecipitation
 PCED1A	UBE2M	anti bait coimmunoprecipitation
+PCED1A	hCG_2022592	anti bait coimmunoprecipitation
 PCF11	SRRM1	affinity chromatography technology
 PCF11	SUMO2	affinity chromatography technology
 PCF11	UBC	affinity chromatography technology
@@ -82865,7 +83080,6 @@ PCK1	USP11	affinity chromatography technology
 PCK1	WNT5A	affinity chromatography technology
 PCK1	YWHAQ	affinity chromatography technology
 PCK2	SMAD3	two hybrid
-PCK2	TP53	affinity chromatography technology
 PCK2	UBC	affinity chromatography technology
 PCM1	PCNT	in vivo
 PCM1	PPIB	affinity chromatography technology
@@ -83600,6 +83814,7 @@ PEX1	UBC	affinity chromatography technology
 PEX26	PEX6	anti tag coimmunoprecipitation
 PEX26	SUFU	two hybrid
 PEX26	UBC	affinity chromatography technology
+PEX26T35insC	SUFU	two hybrid
 PEX2	TLE1	two hybrid pooling approach
 PEX3	UBC	enzymatic study
 PEX5	PEX7	pull down
@@ -83939,6 +84154,7 @@ PHB2	TFE3	anti bait coimmunoprecipitation
 PHB2	TIMM50	anti bait coimmunoprecipitation
 PHB2	TRAF6	anti bait coimmunoprecipitation
 PHB2	TSC22D1	anti bait coimmunoprecipitation
+PHB2	Tcr-alpha	anti bait coimmunoprecipitation
 PHB2	UBC	affinity chromatography technology
 PHB2	UPF2	two hybrid
 PHB2	USP15	affinity chromatography technology
@@ -84094,6 +84310,7 @@ PHLDA3	RUNX1-IT1	anti bait coimmunoprecipitation
 PHLDA3	SAAL1	anti bait coimmunoprecipitation
 PHLDA3	SAMHD1	anti bait coimmunoprecipitation
 PHLDA3	SEC63	anti bait coimmunoprecipitation
+PHLDA3	SF3B14	anti bait coimmunoprecipitation
 PHLDA3	SFXN1	anti bait coimmunoprecipitation
 PHLDA3	SLC25A12	affinity chromatography technology
 PHLDA3	SLC3A2	anti bait coimmunoprecipitation
@@ -84740,6 +84957,7 @@ PINX1	RPS28	anti bait coimmunoprecipitation
 PINX1	RPS3A	anti bait coimmunoprecipitation
 PINX1	RRP1B	anti bait coimmunoprecipitation
 PINX1	S100A9	two hybrid
+PINX1	SF3B14	anti bait coimmunoprecipitation
 PINX1	SRP14	anti bait coimmunoprecipitation
 PINX1	SRP72	anti bait coimmunoprecipitation
 PINX1	SSR3	anti bait coimmunoprecipitation
@@ -85215,6 +85433,7 @@ PLEKHA5	SPTAN1	pull down
 PLEKHA5	SPTBN1	pull down
 PLEKHA5	UBC	affinity chromatography technology
 PLEKHA5	YWHAG	in vivo
+PLEKHA5	tmp_locus_29	pull down
 PLEKHA7	UBC	affinity chromatography technology
 PLEKHA7	USP20	anti tag coimmunoprecipitation
 PLEKHA8	UBC	affinity chromatography technology
@@ -85409,6 +85628,7 @@ PLS3	VHL	anti bait coimmunoprecipitation
 PLSCR1	PLSCR3	two hybrid
 PLSCR1	PLSCR4	two hybrid pooling approach
 PLSCR1	PML	two hybrid
+PLSCR1	PP2135	two hybrid
 PLSCR1	PRKCD	in vitro
 PLSCR1	RASD1	two hybrid
 PLSCR1	RBL1	two hybrid
@@ -85432,6 +85652,7 @@ PLSCR1	ZBTB16	two hybrid pooling approach
 PLSCR1	ZNF581	two hybrid
 PLSCR1	ZNF638	two hybrid
 PLSCR1	ZNF764	two hybrid pooling approach
+PLSCR1	hCG_2001421	two hybrid
 PLSCR3	PRKCD	enzymatic study
 PLSCR3	TRIP13	two hybrid pooling approach
 PLSCR3	UBC	affinity chromatography technology
@@ -86699,6 +86920,7 @@ PPM1B	PPP2CA	biochemical
 PPM1B	RASGRP1	affinity chromatography technology
 PPM1B	S100A8	anti bait coimmunoprecipitation
 PPM1B	TLE4	affinity chromatography technology
+PPM1B	Tcr-alpha	anti bait coimmunoprecipitation
 PPM1B	UBC	affinity chromatography technology
 PPM1B	VAV2	two hybrid
 PPM1B	VCP	affinity chromatography technology
@@ -87634,6 +87856,7 @@ PRKAB1	RUVBL2	anti bait coimmunoprecipitation
 PRKAB1	SEC61A1	anti bait coimmunoprecipitation
 PRKAB1	SET	anti bait coimmunoprecipitation
 PRKAB1	SF3A1	anti bait coimmunoprecipitation
+PRKAB1	SF3B14	anti bait coimmunoprecipitation
 PRKAB1	SHMT2	anti bait coimmunoprecipitation
 PRKAB1	SLC25A10	anti bait coimmunoprecipitation
 PRKAB1	SNRNP200	affinity chromatography technology
@@ -88469,6 +88692,7 @@ PRUNE2	UBC	affinity chromatography technology
 PRUNE	PRUNE	in vitro
 PRUNE	UBC	affinity chromatography technology
 PSAP	SGCG	anti bait coimmunoprecipitation
+PSAP	SGK223	two hybrid
 PSAP	SMAD2	two hybrid
 PSAP	SMAD9	two hybrid
 PSAP	UBC	affinity chromatography technology
@@ -89473,6 +89697,7 @@ PSTPIP1	RPL37A	affinity chromatography technology
 PSTPIP1	RPS26	anti bait coimmunoprecipitation
 PSTPIP1	RUVBL1	anti bait coimmunoprecipitation
 PSTPIP1	SCG5	anti bait coimmunoprecipitation
+PSTPIP1	SGK494	anti bait coimmunoprecipitation
 PSTPIP1	SHBG	two hybrid
 PSTPIP1	SUCO	anti bait coimmunoprecipitation
 PSTPIP1	TAF1L	anti bait coimmunoprecipitation
@@ -89748,6 +89973,7 @@ PTP4A3	TOMM22	anti bait coimmunoprecipitation
 PTP4A3	TTC27	affinity chromatography technology
 PTP4A3	TTI1	anti bait coimmunoprecipitation
 PTP4A3	TUBG2	anti bait coimmunoprecipitation
+PTP4A3	Tcr-alpha	anti bait coimmunoprecipitation
 PTP4A3	UBE3C	anti bait coimmunoprecipitation
 PTP4A3	UBE4A	affinity chromatography technology
 PTP4A3	UFL1	anti bait coimmunoprecipitation
@@ -91061,7 +91287,6 @@ RAF1	YWHAZ	two hybrid
 RAF1	YY1	two hybrid
 RAG1	RAG2	affinity chromatography technology
 RAG1	RBX1	biochemical
-RAG1	UBC	affinity chromatography technology
 RAG1	VPRBP	biochemical
 RAG2	SKP2	affinity chromatography technology
 RAG2	UBC	affinity chromatography technology
@@ -92242,6 +92467,7 @@ RELA	USF2	two hybrid
 RELA	USP31	affinity chromatography technology
 RELA	UXT	two hybrid
 RELA	VIM	anti tag coimmunoprecipitation
+RELA	WUGSC:H_RG054D04.1	anti tag coimmunoprecipitation
 RELA	ZBTB7B	affinity chromatography technology
 RELB	RPL30	anti tag coimmunoprecipitation
 RELB	RPLP0P6	anti tag coimmunoprecipitation
@@ -92810,6 +93036,7 @@ RIPK2	UBE2I	two hybrid pooling approach|two hybrid
 RIPK2	VDAC1	anti bait coimmunoprecipitation
 RIPK2	VIM	anti tag coimmunoprecipitation
 RIPK2	XIAP	pull down
+RIPK2	YA61	anti bait coimmunoprecipitation
 RIPK3	RPL23	anti tag coimmunoprecipitation
 RIPK3	RPS27	anti tag coimmunoprecipitation
 RIPK3	RUVBL1	anti tag coimmunoprecipitation
@@ -93508,6 +93735,7 @@ RNF7	UBE2D1	in vivo
 RNF7	UBE2D2	two hybrid
 RNF7	UBE2D4	two hybrid
 RNF7	UBE2Q1	two hybrid
+RNF7	hucep-3	two hybrid
 RNF8	RXRA	two hybrid
 RNF8	TP53BP1	fluorescence microscopy
 RNF8	UBB	affinity chromatography technology
@@ -93636,6 +93864,7 @@ RORB	TNNI2	two hybrid
 RORB	UBE2I	two hybrid
 ROS1	SCN9A	affinity chromatography technology
 ROS1	VAV3	affinity chromatography technology
+RP1-57A13.2	UBC	affinity chromatography technology
 RP2	UBC	affinity chromatography technology
 RP9	SRSF1	two hybrid
 RP9	SUMO2	affinity chromatography technology
@@ -93929,6 +94158,7 @@ RPL37	WIF1	two hybrid
 RPL37	ZNF24	display technology
 RPL37A	UBC	affinity chromatography technology
 RPL37A	VHL	anti bait coimmunoprecipitation
+RPL37L	UBC	affinity chromatography technology
 RPL38	RUVBL2	enzymatic study
 RPL38	SIRT7	affinity chromatography technology
 RPL38	TFE3	affinity chromatography technology
@@ -94088,6 +94318,7 @@ RPRD2	UBC	affinity chromatography technology
 RPRD2	UPF1	two hybrid
 RPRD2	WWOX	affinity chromatography technology
 RPRM	STK32C	anti bait coimmunoprecipitation
+RPRM	Tcr-alpha	anti bait coimmunoprecipitation
 RPS10	SIRT1	affinity chromatography technology
 RPS10	SIRT7	affinity chromatography technology
 RPS10	SUMO2	affinity chromatography technology
@@ -94511,6 +94742,7 @@ RSRC1	YWHAG	anti bait coimmunoprecipitation
 RSRC2	UBQLN4	two hybrid
 RSU1	UBC	affinity chromatography technology
 RTCA	RTCA	in vitro
+RTCA	SF3B14	anti bait coimmunoprecipitation
 RTCA	UBC	affinity chromatography technology
 RTCA	USP45	affinity chromatography technology
 RTDR1	SMAD4	in vivo
@@ -95188,6 +95420,7 @@ SCAMP4	UBC	affinity chromatography technology
 SCAMP5	SLC9A7	in vivo
 SCAND1	UBC	affinity chromatography technology
 SCAND1	ZKSCAN7	two hybrid pooling approach
+SCAND1	ZNF	two hybrid
 SCAND1	ZNF165	two hybrid
 SCAND1	ZNF202	in vitro
 SCAND1	ZNF24	two hybrid
@@ -95571,6 +95804,7 @@ SELENBP1	USP15	affinity chromatography technology
 SELENBP1	USP33	two hybrid
 SELL	SELPLG	in vivo
 SELL	VCAN	pull down
+SELO	UBC	affinity chromatography technology
 SELP	SELP	in vitro
 SELP	SELPLG	surface plasmon resonance
 SELP	SERPING1	in vivo
@@ -95583,6 +95817,7 @@ SELPLG	TPST1	in vitro
 SELPLG	TPST2	in vitro
 SELPLG	VCAN	in vivo
 SELRC1	UBC	affinity chromatography technology
+SELT	UBC	affinity chromatography technology
 SEMA3A	SEMA3B	in vivo
 SEMA3B	SEMA3B	in vivo
 SEMA3F	SHBG	two hybrid
@@ -95628,6 +95863,10 @@ SENP6	SP1	display technology
 SENP6	SUMO1	in vitro
 SENP6	SUMO2	imaging technique
 SENP8	UBB	pull down
+SEP15	UBC	affinity chromatography technology
+SEP15	UGGT1	in vitro
+SEP15	UGGT2	in vitro
+SEP15	XRCC6	two hybrid
 SEPHS1	SEPHS1	two hybrid pooling approach
 SEPHS1	SLC35F6	two hybrid pooling approach|two hybrid
 SEPHS1	TNFRSF10D	anti bait coimmunoprecipitation
@@ -95957,6 +96196,7 @@ SF3A1	WBP4	pull down
 SF3A1	WWOX	affinity chromatography technology
 SF3A2	SF3A3	affinity chromatography technology
 SF3A2	SF3B1	affinity chromatography technology
+SF3A2	SF3B14	in vivo
 SF3A2	SF3B2	affinity chromatography technology
 SF3A2	SF3B3	in vivo
 SF3A2	SF3B4	in vivo
@@ -96012,6 +96252,12 @@ SF3A3	U2AF1	in vivo
 SF3A3	UBC	affinity chromatography technology
 SF3A3	VAV2	two hybrid
 SF3A3	WBP4	affinity chromatography technology
+SF3B14	SF3B14	in vitro
+SF3B14	SMNDC1	anti bait coimmunoprecipitation
+SF3B14	TNIK	anti bait coimmunoprecipitation
+SF3B14	UBC	enzymatic study
+SF3B14	VHL	anti bait coimmunoprecipitation
+SF3B1	SF3B14	in vivo
 SF3B1	SF3B2	affinity chromatography technology
 SF3B1	SF3B3	affinity chromatography technology
 SF3B1	SF3B4	affinity chromatography technology
@@ -96079,6 +96325,7 @@ SF3B4	UBC	affinity chromatography technology
 SF3B4	WBP4	affinity chromatography technology|pull down
 SF3B5	SRRM2	affinity chromatography technology
 SF3B5	UBC	affinity chromatography technology
+SFN	SGK223	tandem affinity purification
 SFN	SH2D3A	tandem affinity purification
 SFN	SH3BP4	tandem affinity purification
 SFN	SHCBP1	affinity chromatography technology
@@ -96184,18 +96431,22 @@ SGCE	UBC	affinity chromatography technology
 SGCG	SSPN	in vivo
 SGCG	SUCLG2	anti bait coimmunoprecipitation
 SGCG	TTN	anti bait coimmunoprecipitation
+SGK196	TGFBR1	in vivo
 SGK1	SLC1A3	in vitro
 SGK1	SLC9A3R2	pull down
 SGK1	STUB1	affinity chromatography technology
 SGK1	SYVN1	affinity chromatography technology
 SGK1	TMEM184C	two hybrid
 SGK1	TUFM	anti bait coimmunoprecipitation
+SGK1	Tcr-alpha	anti bait coimmunoprecipitation
 SGK1	UBC	affinity chromatography technology
 SGK1	VARS	anti bait coimmunoprecipitation
 SGK1	VCP	affinity chromatography technology
 SGK1	WNK1	enzymatic study
 SGK1	WNK2	enzymatic study
 SGK1	WNK4	enzymatic study
+SGK223	UBC	affinity chromatography technology
+SGK223	UBE3A	two hybrid
 SGK3	SLC9A3R2	in vivo
 SGMS2	UBC	affinity chromatography technology
 SGOL1	SGOL1	in vivo
@@ -97128,7 +97379,6 @@ SLC30A5	UBC	affinity chromatography technology
 SLC30A6	UBC	affinity chromatography technology
 SLC30A7	UBC	affinity chromatography technology
 SLC30A9	UBC	affinity chromatography technology
-SLC32A1	UBC	enzymatic study
 SLC33A1	UBC	affinity chromatography technology
 SLC34A1	SLC9A3R1	in vitro
 SLC34A1	SLC9A3R2	in vitro
@@ -97954,7 +98204,6 @@ SMURF1	TRAF5	two hybrid
 SMURF1	TRAF6	two hybrid
 SMURF1	TRIB3	affinity chromatography technology
 SMURF1	TTC17	in vivo
-SMURF1	TTC5	affinity chromatography technology
 SMURF1	UBA52	in vivo
 SMURF1	UBC	affinity chromatography technology
 SMURF1	UBTF	in vivo
@@ -98264,7 +98513,9 @@ SNTA1	TGFA	in vitro
 SNTA1	UBE2V2	two hybrid
 SNTA1	UTRN	coimmunoprecipitation
 SNTA1	XRCC6	two hybrid pooling approach
+SNTA1	dystrophin	two hybrid
 SNTB1	UTRN	coimmunoprecipitation
+SNTB1	dystrophin	coimmunoprecipitation
 SNTB2	UBC	affinity chromatography technology
 SNTB2	UTRN	coimmunoprecipitation
 SNTG1	STXBP3	pull down
@@ -99387,6 +99638,7 @@ STK24	SUMO3	two hybrid
 STK24	SYNCRIP	anti bait coimmunoprecipitation
 STK24	TCP1	anti tag coimmunoprecipitation
 STK24	TRAF3IP3	anti tag coimmunoprecipitation
+STK24	TRY8	anti bait coimmunoprecipitation
 STK24	UBC	affinity chromatography technology
 STK24	VAV2	two hybrid
 STK24	ZBTB24	affinity chromatography technology
@@ -99494,6 +99746,7 @@ STT3A	TIRAP	anti tag coimmunoprecipitation
 STT3A	TMEM173	anti tag coimmunoprecipitation
 STT3A	UBC	enzymatic study
 STT3A	UNC93B1	affinity chromatography technology
+STT3A	hucep-3	two hybrid
 STT3B	SUMO2	affinity chromatography technology
 STT3B	TMEM173	affinity chromatography technology
 STT3B	UBC	affinity chromatography technology
@@ -99650,6 +99903,7 @@ STXBP4	UBC	affinity chromatography technology
 STXBP6	UBC	affinity chromatography technology
 STYK1	UBC	affinity chromatography technology
 STYXL1	TGFBR1	in vivo
+STYXL1	Tcr-alpha	anti bait coimmunoprecipitation
 STYXL1	UBC	affinity chromatography technology
 SUB1	SUMO2	affinity chromatography technology
 SUB1	TAF1	in vitro
@@ -100173,6 +100427,7 @@ SYP	VAMP2	in vivo
 SYPL1	UBC	affinity chromatography technology
 SYPL1	VAMP2	in vivo
 SYS1	UBC	affinity chromatography technology
+SYT-SSX2	TLE1	anti bait coimmunoprecipitation
 SYT11	UBC	affinity chromatography technology
 SYT14	SYT14	in vivo
 SYT14	SYT16	in vivo
@@ -100712,6 +100967,7 @@ TCEAL4	USP7	anti tag coimmunoprecipitation
 TCEAL8	UBC	affinity chromatography technology
 TCEANC	TRAF2	two hybrid
 TCEANC	ZKSCAN7	two hybrid
+TCEANC	ZNF	two hybrid
 TCEB1	TCEB2	in vitro
 TCEB1	TCEB3	in vitro
 TCEB1	TCEB3B	in vitro
@@ -101801,6 +102057,7 @@ TNIK	TYMS	anti bait coimmunoprecipitation
 TNIK	UBC	affinity chromatography technology
 TNIK	UCHL1	anti bait coimmunoprecipitation
 TNIK	WWC1	two hybrid
+TNIK	YA61	anti bait coimmunoprecipitation
 TNIP1	TRAF3	affinity chromatography technology
 TNIP1	TTF2	two hybrid
 TNIP1	UBC	affinity chromatography technology
@@ -102310,12 +102567,14 @@ TRAF6	VPS35	anti bait coimmunoprecipitation
 TRAF6	VTA1	anti bait coimmunoprecipitation
 TRAF6	WDR5	anti bait coimmunoprecipitation
 TRAF6	XIAP	two hybrid array
+TRAF6	YA61	anti bait coimmunoprecipitation
 TRAF6	YARS	anti bait coimmunoprecipitation
 TRAF6	YBX1	two hybrid
 TRAF6	ZFAND5	affinity chromatography technology
 TRAF6	ZMYND11	anti tag coimmunoprecipitation
 TRAF6	ZNF675	two hybrid
 TRAF6	ZRANB1	anti tag coimmunoprecipitation
+TRAF6	derp12	anti bait coimmunoprecipitation
 TRAF7	UBC	affinity chromatography technology
 TRAF7	UBE2D1	two hybrid
 TRAF7	UBE2D2	two hybrid
@@ -103093,6 +103352,7 @@ TYRO3	UBC	affinity chromatography technology
 TYRO3	YES1	in vivo
 TYROBP	ZAP70	in vitro
 TYW1B	UBC	affinity chromatography technology
+Tcr-alpha	VHL	anti bait coimmunoprecipitation
 U2AF1	U2AF2	in vivo|two hybrid|pull down
 U2AF1	UBC	affinity chromatography technology
 U2AF1	VEGFA	two hybrid
@@ -103509,6 +103769,7 @@ UBC	WRN	pull down
 UBC	WRNIP1	enzymatic study
 UBC	WSB1	affinity chromatography technology
 UBC	WTAP	affinity chromatography technology
+UBC	WUGSC:H_RG054D04.1	enzymatic study
 UBC	WWOX	affinity chromatography technology
 UBC	WWP1	pull down
 UBC	WWP2	affinity chromatography technology
@@ -104224,6 +104485,7 @@ VCAN	XCL1	in vitro
 VCL	VCL	x-ray crystallography
 VCL	VCP	affinity chromatography technology
 VCL	YWHAZ	pull down
+VCL	argBPIB	two hybrid
 VCP	VCP	electron microscopy
 VCP	VCPIP1	anti tag coimmunoprecipitation
 VCP	VIMP	affinity chromatography technology
@@ -104246,6 +104508,7 @@ VHL	VMA21	anti bait coimmunoprecipitation
 VHL	VPS35	anti bait coimmunoprecipitation
 VHL	WTIP	affinity chromatography technology
 VHL	XRCC5	affinity chromatography technology
+VHL	YA61	anti bait coimmunoprecipitation
 VHL	YY1AP1	two hybrid
 VHL	ZC3H13	affinity chromatography technology
 VHL	ZNF197	two hybrid
@@ -104481,6 +104744,7 @@ ZBTB8A	ZBTB8A	two hybrid pooling approach
 ZBTB8A	ZNF250	two hybrid
 ZBTB8A	ZNF276	two hybrid pooling approach
 ZBTB8A	ZNF408	two hybrid
+ZBTB8A	pp9964	two hybrid
 ZBTB8B	ZBTB8B	two hybrid
 ZBTB8B	ZNF250	two hybrid
 ZBTB8B	ZNF276	two hybrid
@@ -104549,6 +104813,7 @@ ZNF496	ZZZ3	two hybrid
 ZNF513	ZZZ3	two hybrid
 ZNF593	ZNRD1	two hybrid
 ZNF598	ZNF598	in vitro
+ZNF	ZSCAN32	two hybrid
 ZNRF1	ZNRF2	far western blotting
 ZP2	ZPBP	in vitro
 ZW10	ZWILCH	in vivo
