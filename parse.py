@@ -3,6 +3,14 @@
 
 Sample line:
 uniprotkb:Q14141	uniprotkb:Q96B97	uniprotkb:SEPT6(gene name)	uniprotkb:SH3KBP1(gene name)	-	-	MI:0004(affinity chromatography technology)	-	pubmed:19531213	taxid:9606(Homo sapiens)	taxid:9606(Homo sapiens)	MI:0915(physical association)	(biogrid)	BIOGRID_185461	-	prey	bait	go:GO:0005525|go:GO:0043679|go:GO:0007049|go:GO:0032154|go:GO:0000777|go:GO:0000910|go:GO:0005737|go:GO:0030496|go:GO:0031105|go:GO:0005819|go:GO:0008021|go:GO:0019048	go:GO:0006915|go:GO:0016477|go:GO:0007267|go:GO:0030659|go:GO:0005856|go:GO:0007010|go:GO:0005829|go:GO:0006897|go:GO:0007173|go:GO:0005925|go:GO:0042059|go:GO:0043005|go:GO:0005886|go:GO:0008360|go:GO:0045202	unspecified:32644
+
+STATS
+Lines read: 108470
+#PPI: 104820
+Lines not human: 1105  (excluded)
+#Unique Syms: 13990
+#No Gen Syms: 222
+#PPIs with no Gene Symbol: 628
 """
 import sys
 import re
@@ -114,8 +122,8 @@ def main():
   print "#PPI:", len(ppi)
   print "Lines not human:", n_not_human
   print "#Unique Syms:", len(syms)
-  print "#Problem Syms:", len(problems)
-  print "#Problem PPI:", sum(len(s) for s in problems.values())
+  print "#No Gen Syms:", len(problems)
+  print "#PPIs with no Gene Symbol:", sum(len(s) for s in problems.values())
   print "Problem syms"
   for i, v in enumerate(problems.items()):
     print v
